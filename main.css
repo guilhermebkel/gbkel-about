@@ -7,9 +7,9 @@ body {
 }
 
 .container {
-	margin: 20px auto auto auto;
+	margin: 20px auto;
 	width: 65%;
-	height: 200vh;
+	height: auto;
 	background-color: white;
 	box-shadow: 0 10px 50px #bdbdbd;
 }
@@ -24,7 +24,7 @@ body {
 	line-height: 0;
 	margin-top: 30px;
 	font-size: 18px;
-	color: #1537E2;
+	color: #0091ea;
 }
 
 .info p {
@@ -64,7 +64,7 @@ hr{
 	margin-left: 50px;
 	margin-top: 35px;
 	font-size: 16px;
-	color: #1537E2;
+	color: #0091ea;
 }
 .experience strong {
 	text-align: left;
@@ -85,4 +85,83 @@ hr{
 	margin-left: 50px;
 	width: 87%;
 	margin-top: 5px;
+}
+
+.education h1 {
+	text-align: left;
+	margin-left: 50px;
+	font-size: 25px;
+}
+.education h2 {
+	text-align: left;
+	margin-left: 50px;
+	margin-top: 35px;
+	font-size: 16px;
+	color: #0091ea;
+}
+.education strong {
+	text-align: left;
+	margin-left: 50px;
+	color: black;
+	border-bottom: 0px solid black;
+	transition: all 0.3s ease;
+	line-height: 25px
+}
+.education strong:hover {
+	color: #373A36;
+	transition: all 0.3s ease;
+}
+.education h3 {
+	text-align: justify;
+	line-height: 20px;
+	font-weight: lighter;
+	font-size: 15px;
+	margin-left: 50px;
+	width: 87%;
+	margin-top: 5px;
+}
+
+.languages h1 {
+	text-align: left;
+	margin-left: 50px;
+	font-size: 25px;
+}
+.languages strong {
+	text-align: left;
+	color: black;
+	border-bottom: 0px solid black;
+	transition: all 0.3s ease;
+	line-height: 25px
+}
+.languages p {
+	text-align: justify;
+	line-height: 20px;
+	font-weight: lighter;
+	font-size: 15px;
+	margin-left: 50px;
+	width: 87%;
+	margin-top: 5px;
+}
+
+.skills h1 {
+	text-align: left;
+	margin-left: 50px;
+	font-size: 25px;
+}
+.skills strong {
+	text-align: left;
+	color: black;
+	border-bottom: 0px solid black;
+	transition: all 0.3s ease;
+	line-height: 25px
+}
+.skills p {
+	text-align: justify;
+	line-height: 20px;
+	font-weight: lighter;
+	font-size: 15px;
+	margin-left: 50px;
+	width: 87%;
+	margin-top: 5px;
+	margin-bottom: 50px;
 }
