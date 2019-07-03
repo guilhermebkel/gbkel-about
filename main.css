@@ -82,9 +82,7 @@ hr{
 	line-height: 20px;
 	font-weight: lighter;
 	font-size: 15px;
-	margin-left: 50px;
-	width: 87%;
-	margin-top: 5px;
+	margin: 5px 50px auto 50px;
 }
 
 .education h1 {
@@ -116,9 +114,7 @@ hr{
 	line-height: 20px;
 	font-weight: lighter;
 	font-size: 15px;
-	margin-left: 50px;
-	width: 87%;
-	margin-top: 5px;
+	margin: 5px 50px auto 50px;
 }
 
 .languages h1 {
@@ -138,9 +134,7 @@ hr{
 	line-height: 20px;
 	font-weight: lighter;
 	font-size: 15px;
-	margin-left: 50px;
-	width: 87%;
-	margin-top: 5px;
+	margin: 5px 50px auto 50px;
 }
 
 .skills h1 {
@@ -160,8 +154,5 @@ hr{
 	line-height: 20px;
 	font-weight: lighter;
 	font-size: 15px;
-	margin-left: 50px;
-	width: 87%;
-	margin-top: 5px;
-	margin-bottom: 50px;
+	margin: 5px 50px 50px 50px;
 }
