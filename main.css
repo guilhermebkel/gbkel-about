@@ -4,19 +4,21 @@ body {
 	font-family: Lato, sans-serif;
 	color: #373A36;
 	letter-spacing: 1px;
+	text-align: justify;
 }
 
 .container {
 	margin: 20px auto;
-	width: 65%;
+	width: 60%;
 	height: auto;
+	padding: 50px;
 	background-color: white;
 	box-shadow: 0 10px 50px #bdbdbd;
 }
 .container h1 {
 	text-align: center;
 	line-height: 0;
-	margin-top: 50px;
+	margin-top: 0;
 	font-size: 30px;
 }
 .container h2 {
@@ -32,7 +34,6 @@ body {
 	line-height: 20px;
 	font-size: 15px;
 	margin-top: 50px;
-	margin-left: 50px;
 }
 .info a {
 	text-decoration: underline;
@@ -56,19 +57,16 @@ hr{
 
 .experience h1 {
 	text-align: left;
-	margin-left: 50px;
 	font-size: 25px;
 }
 .experience h2 {
 	text-align: left;
-	margin-left: 50px;
 	margin-top: 35px;
 	font-size: 16px;
 	color: #0091ea;
 }
 .experience strong {
 	text-align: left;
-	margin-left: 50px;
 	color: black;
 	border-bottom: 2px solid black;
 	transition: all 0.3s ease;
@@ -82,24 +80,21 @@ hr{
 	line-height: 20px;
 	font-weight: lighter;
 	font-size: 15px;
-	margin: 5px 50px auto 50px;
+	margin: 5px auto auto auto;
 }
 
 .education h1 {
 	text-align: left;
-	margin-left: 50px;
 	font-size: 25px;
 }
 .education h2 {
 	text-align: left;
-	margin-left: 50px;
 	margin-top: 35px;
 	font-size: 16px;
 	color: #0091ea;
 }
 .education strong {
 	text-align: left;
-	margin-left: 50px;
 	color: black;
 	border-bottom: 0px solid black;
 	transition: all 0.3s ease;
@@ -114,12 +109,11 @@ hr{
 	line-height: 20px;
 	font-weight: lighter;
 	font-size: 15px;
-	margin: 5px 50px auto 50px;
+	margin: 5px auto auto auto;
 }
 
 .languages h1 {
 	text-align: left;
-	margin-left: 50px;
 	font-size: 25px;
 }
 .languages strong {
@@ -134,12 +128,11 @@ hr{
 	line-height: 20px;
 	font-weight: lighter;
 	font-size: 15px;
-	margin: 5px 50px auto 50px;
+	margin: 5px auto auto auto;
 }
 
 .skills h1 {
 	text-align: left;
-	margin-left: 50px;
 	font-size: 25px;
 }
 .skills strong {
@@ -154,5 +147,5 @@ hr{
 	line-height: 20px;
 	font-weight: lighter;
 	font-size: 15px;
-	margin: 5px 50px 50px 50px;
+	margin: 5px auto auto auto;
 }
