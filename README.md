@@ -7,7 +7,7 @@ A simple Curriculum Vitae.
 Javascript (Avançado)
 Typescript (Avançado)
 C (Avançado)
-C++ (Básico)
+C++ (Intermediário)
 ```
 
 ***Back-end***
@@ -42,6 +42,7 @@ Git (Avançado)
 MySQL (Avançado)
 PostgreSQL (Avançado)
 MongoDB (Avançado)
+Redis (Básico)
 ```
 
 ***Desenvolvimento Orientado por Testes***
@@ -69,13 +70,13 @@ Helmet.js (Básico)
 
 ***Serviços AWS***
 ```
-AWS Lambda (Básico)
+AWS Lambda (Intermediário)
 ```
 
 ***Operações Real-time***
 ```
 Socket.io (Avançado)
-Kafka.js (Básico)
+Kafka.js (Intermediário)
 ```
 
 ***Gerenciamento de Serviços***
@@ -86,6 +87,8 @@ Docker (Básico)
 ***Gerenciamento de Aplicações***
 ```
 Sucrase.io (Avançado)
+Babel 4 (Intermediário)
+Webpack 7 (Intermediário)
 Maven (Básico)
 ```
 
