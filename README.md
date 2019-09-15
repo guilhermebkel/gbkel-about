@@ -7,7 +7,7 @@ A simple Curriculum Vitae.
 Javascript (Avançado)
 Typescript (Avançado)
 C (Avançado)
-C++ (Básico)
+C++ (Intermediário)
 ```
 
 ***Back-end***
@@ -23,6 +23,7 @@ React.js (Avançado)
 Redux.js (Intermediário)
 Next.js (Intermediário)
 Angular 8 (Intermediário)
+Styled Components (Básico)
 ```
 
 ***REST API***
@@ -32,7 +33,7 @@ Restify.js (Avançado)
 Spring (Básico)
 ```
 
-***Versionamento de Código***
+***Gerenciamento de Código***
 ```
 Git (Avançado)
 ```
@@ -42,17 +43,19 @@ Git (Avançado)
 MySQL (Avançado)
 PostgreSQL (Avançado)
 MongoDB (Avançado)
+Redis (Básico)
 ```
 
 ***Desenvolvimento Orientado por Testes***
 ```
 Mocha.js (Intemediário)
+Jest (Básico)
 ```
 
 ***Desenvolvimento Mobile***
 ```
 Ionic 4 (Intermediário)
-React Native (Básico)
+React Native (Intermediário)
 ```
 
 ***Sistema de Autenticação***
@@ -69,13 +72,18 @@ Helmet.js (Básico)
 
 ***Serviços AWS***
 ```
-AWS Lambda (Básico)
+AWS Lambda (Intermediário)
+```
+
+***Serverless***
+```
+Serverless (Intermediário)
 ```
 
 ***Operações Real-time***
 ```
 Socket.io (Avançado)
-Kafka.js (Básico)
+Kafka.js (Intermediário)
 ```
 
 ***Gerenciamento de Serviços***
@@ -86,6 +94,8 @@ Docker (Básico)
 ***Gerenciamento de Aplicações***
 ```
 Sucrase.io (Avançado)
+Babel 4 (Intermediário)
+Webpack 7 (Intermediário)
 Maven (Básico)
 ```
 
