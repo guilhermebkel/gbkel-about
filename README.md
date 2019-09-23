@@ -46,7 +46,7 @@ Git (Avançado)
 MySQL (Avançado)
 PostgreSQL (Avançado)
 MongoDB (Avançado)
-Redis (Básico)
+Redis (Intermediário)
 ```
 
 ***Desenvolvimento Orientado por Testes***
