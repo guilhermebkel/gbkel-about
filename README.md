@@ -91,7 +91,7 @@ Kafka.js (Intermediário)
 Docker (Básico)
 ```
 
-***Gerenciamento de Aplicações***
+***Execução de Aplicações***
 ```
 Sucrase.io (Avançado)
 Babel 4 (Intermediário)
