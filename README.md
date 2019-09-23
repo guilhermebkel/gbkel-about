@@ -8,6 +8,8 @@ Javascript (Avançado)
 Typescript (Avançado)
 C (Avançado)
 C++ (Intermediário)
+Python (Básico)
+R (Básico)
 ```
 
 ***Back-end***
@@ -102,4 +104,14 @@ Maven (Básico)
 ***Web Scrapping***
 ```
 Puppeteer.js (Intermediário)
+```
+
+***Eletrônica***
+```
+Arduíno (Intermediário)
+```
+
+***Inteligência Artificial***
+```
+Tensorflow.js (Básico)
 ```
