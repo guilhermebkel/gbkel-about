@@ -10,6 +10,7 @@ C (Avançado)
 C++ (Intermediário)
 Python (Básico)
 R (Básico)
+Java (Básico)
 ```
 
 ***Back-end***
