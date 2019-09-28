@@ -1,7 +1,4 @@
-# Resume
-A simple Curriculum Vitae.
-
-## Current Knowledge
+# Knowledges
 ***Linguagens de Programação***
 ```
 Javascript (Avançado)
