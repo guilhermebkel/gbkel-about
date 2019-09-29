@@ -19,6 +19,7 @@ Node.js (Avançado)
 ```
 HTML5 (Avançado)
 CSS3 (Avançado)
+Sass (Avançado)
 React.js (Avançado)
 Redux.js (Intermediário)
 Next.js (Intermediário)
