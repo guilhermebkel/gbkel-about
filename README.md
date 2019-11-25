@@ -4,7 +4,7 @@
 Javascript (Avançado)
 Typescript (Avançado)
 C (Avançado)
-C++ (Intermediário)
+C++ (Avançado)
 Python (Básico)
 R (Básico)
 Java (Básico)
@@ -22,21 +22,24 @@ CSS3 (Avançado)
 Sass (Avançado)
 React.js (Avançado)
 Redux.js (Intermediário)
-Next.js (Intermediário)
+Styled Components (Intermediário)
 Angular 8 (Intermediário)
-Styled Components (Básico)
+Next.js (Básico)
 ```
 
 ***REST API***
 ```
 Express.js (Avançado)
 Restify.js (Avançado)
+Adonis.js (Avançado)
 Spring (Básico)
 ```
 
 ***Gerenciamento de Código***
 ```
 Git (Avançado)
+Git Karma (Avançado)
+Git Flow (Básico)
 ```
 
 ***Banco de Dados***
@@ -44,13 +47,14 @@ Git (Avançado)
 MySQL (Avançado)
 PostgreSQL (Avançado)
 MongoDB (Avançado)
-Redis (Intermediário)
+Redis (Avançado)
 ```
 
-***Desenvolvimento Orientado por Testes***
+***Ferramentas de Testes***
 ```
 Mocha.js (Intemediário)
 Jest (Básico)
+Vow (Básico)
 ```
 
 ***Desenvolvimento Mobile***
@@ -66,19 +70,23 @@ bcrypt (Avançado)
 OAuth2 (Avançado)
 ```
 
-***Sistema de Segurança***
+***Segurança***
 ```
 Helmet.js (Básico)
 ```
 
 ***Serviços AWS***
 ```
-AWS Lambda (Intermediário)
+AWS Lambda (Avançado)
+AWS SQS (Avançado)
+AWS S3 (Intermediário)
+AWS EC2 (Intermediário)
+AWS SES (Básico)
 ```
 
 ***Serverless***
 ```
-Serverless (Intermediário)
+Serverless (Avançado)
 ```
 
 ***Operações Real-time***
@@ -87,9 +95,9 @@ Socket.io (Avançado)
 Kafka.js (Intermediário)
 ```
 
-***Gerenciamento de Serviços***
+***Encapsulamento de Aplicações***
 ```
-Docker (Básico)
+Docker (Intermediário)
 ```
 
 ***Execução de Aplicações***
@@ -100,9 +108,32 @@ Webpack 7 (Intermediário)
 Maven (Básico)
 ```
 
+***Integração Contínua***
+```
+CircleCI (Intermediário)
+TravisCI (Básico)
+Git Actions (Básico)
+```
+
+***PasS**
+```
+Captain Rover (Avançado)
+```
+
 ***Web Scrapping***
 ```
 Puppeteer.js (Intermediário)
+```
+
+***Padrões de Projeto***
+```
+MVC (Avançado)
+```
+
+***Processamento de Fila**
+```
+SQS Consumer (Avançado)
+Bull (Intermediário)
 ```
 
 ***Eletrônica***
