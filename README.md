@@ -10,11 +10,6 @@ R (Básico)
 Java (Básico)
 ```
 
-***Back-end***
-```
-Node.js (Avançado)
-```
-
 ***Front-end***
 ```
 HTML5 (Avançado)
@@ -27,7 +22,7 @@ Angular 8 (Intermediário)
 Next.js (Básico)
 ```
 
-***REST API***
+***Back-end***
 ```
 Express.js (Avançado)
 Restify.js (Avançado)
@@ -89,7 +84,7 @@ AWS SES (Básico)
 Serverless (Avançado)
 ```
 
-***Operações Real-time***
+***Comunicação assíncrona***
 ```
 Socket.io (Avançado)
 Kafka.js (Intermediário)
@@ -115,7 +110,7 @@ TravisCI (Básico)
 Git Actions (Básico)
 ```
 
-***PasS**
+***PasS***
 ```
 Captain Rover (Avançado)
 ```
@@ -130,7 +125,7 @@ Puppeteer.js (Intermediário)
 MVC (Avançado)
 ```
 
-***Processamento de Fila**
+***Processamento de Fila***
 ```
 SQS Consumer (Avançado)
 Bull (Intermediário)
