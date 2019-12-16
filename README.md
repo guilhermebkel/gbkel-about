@@ -5,6 +5,7 @@ Javascript (Avançado)
 Typescript (Avançado)
 C (Avançado)
 C++ (Avançado)
+LUA (Básico)
 Python (Básico)
 R (Básico)
 Java (Básico)
@@ -20,6 +21,7 @@ Redux.js (Intermediário)
 Styled Components (Intermediário)
 Angular 8 (Intermediário)
 Next.js (Básico)
+jQuery(Básico)
 ```
 
 ***Back-end***
@@ -54,8 +56,8 @@ Vow (Básico)
 
 ***Desenvolvimento Mobile***
 ```
-Ionic 4 (Intermediário)
 React Native (Intermediário)
+Ionic 4 (Básico)
 ```
 
 ***Sistema de Autenticação***
@@ -74,8 +76,11 @@ Helmet.js (Básico)
 ```
 AWS Lambda (Avançado)
 AWS SQS (Avançado)
-AWS S3 (Intermediário)
+AWS S3 (Avançado)
 AWS EC2 (Intermediário)
+AWS CloudFront (Intermediário)
+AWS RDS (Intermediário)
+AWS ElastiCache (Intermediário)
 AWS SES (Básico)
 ```
 
