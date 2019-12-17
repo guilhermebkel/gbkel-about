@@ -1,6 +1,6 @@
 # Experiences
 
-<img style="float: left; width: 120px; height: 120px; margin-right: 10px;" src="assets/experiences/picsize.jpg">
+<img style="float: left; margin-right: 10px;" src="assets/experiences/picsize.jpg" width="120">
 
 **[ 2019/06 - Current ]** PICSIZE ``(Web Full-stack Intern)``
 
@@ -12,7 +12,7 @@ Even as a simple Intern, I was able to help them while learning from aws cloud a
 
 <br></br>
 
-<img style="float: left; width: 120px; margin-right: 10px;" src="assets/experiences/ibesva.jpeg">
+<img style="float: left; margin-right: 10px;" src="assets/experiences/ibesva.jpeg" width="120">
 
 **[ 2019/02 - Current ]** IBESVA ``(Web Front-end Developer)``
 
