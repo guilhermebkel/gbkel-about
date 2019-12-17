@@ -1,6 +1,6 @@
 # Experiences
 
-<img style="float: left; width: 120px; margin-right: 10px;" src="assets/experiences/picsize.jpg">
+<img style="float: left; width: 120px; height: 120px; margin-right: 10px;" src="assets/experiences/picsize.jpg">
 
 **[ 2019/06 - Current ]** PICSIZE ``(Web Full-stack Intern)``
 
