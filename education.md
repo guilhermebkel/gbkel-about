@@ -1,4 +1,4 @@
-# Education
+# [Home](README.md) / Education
 
 <img src="assets/education/ufmg.png" align="left" width="120">
 

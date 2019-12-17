@@ -1,4 +1,4 @@
-# Experiences
+# [Home](README.md) / Experiences
 
 <img src="assets/experiences/picsize.jpg" href="picsize.com.br" align="left" width="120">
 
@@ -19,7 +19,7 @@ It is my first professional experience as a developer. Since the first day I sta
 
 Even as a simple Intern, I was able to help them while learning from aws cloud architecture to software development in general, so I got in touch a lot with `AWS EC2, AWS S3, AWS SQS, AWS ElastiCache, AWS Lambda, AWS RDS, AWS CloudFront, Redis, React, Redux, NodeJS, Styled Components, Serverless and MVC Architecture`.
 
-Besides, I had great realizations there, like, `Refactored its landing page, created a distributed information system based on Redis, solved a bug that was making them lose clients everyday, found and helped solving an architecture bug that kept all the platform offline for almost 4 entire days, created the event oriented microservices system and headed a project to refactor all the platform back-end/front-end while keeping in touch with senior developers`.
+Besides, I had great realizations there, like, `refactored its landing page, created a distributed information system based on Redis, solved a bug that was making them lose clients everyday, found and helped solving an architecture bug that kept all the platform offline for almost 4 entire days, created the event oriented microservices system and headed a project to refactor all the platform back-end/front-end while keeping in touch with senior developers`.
 
 <br></br>
 
