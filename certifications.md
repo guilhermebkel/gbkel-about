@@ -1,6 +1,6 @@
 # [Home](README.md) / Certifications
 
-That's basically a summary of the certificates I've got by completing courses that are inside the **certificates** folder.
+That's basically a summary of all the certificates I've got by completing courses that are inside the **certificates** folder.
 
 ---
 
