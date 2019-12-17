@@ -19,6 +19,6 @@ That's the repository I use to track the road I'm taking everyday in order to be
 - [ Skills ](skills.md)
 - [ Education ](education.md)
 - [ Experiences ](experiences.md)
-- [ Certifications ](certificates.md)
+- [ Certifications ](certifications.md)
 - [ Personal Projects ](projects.md)
 - [ Open Source Projects](opensource.md)
