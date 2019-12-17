@@ -1,6 +1,6 @@
 # Education
 
-<img style="float: left; width: 120px; margin-right: 10px;" src="assets/education/ufmg.png">
+<img src="assets/education/ufmg.png" align="left" width="120">
 
 **[ 2019 - Current ]** Universidade Federal de Minas Gerais
 
@@ -8,7 +8,7 @@ Currently I'm doing a bachelor's degree in Electrical Engineering with emphasis 
 
 <br>
 
-<img style="float: left; width: 120px; margin-right: 10px;" src="assets/education/freecodecamp.jpeg">
+<img src="assets/education/freecodecamp.jpeg" align="left" width="120">
 
 **[ 2019 ]** freeCodeCamp
 
@@ -16,7 +16,7 @@ I did an online bootcamp with more than 1000 hours of study in Web Full-Stack de
 
 <br><br>
 
-<img style="float: left; width: 120px; margin-right: 10px;" src="assets/education/ifes.png">
+<img src="assets/education/ifes.png" align="left" width="120">
 
 **[ 2015 - 2019 ]** Instituto Federal do Espírito Santo
 
