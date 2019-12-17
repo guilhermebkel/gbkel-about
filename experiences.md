@@ -18,4 +18,4 @@ Even as a simple Intern, I was able to help them while learning from aws cloud a
 
 That's a Non-governmental organization that helps the education cause.
 
-My first volunteering experience as a software developer. For the first time I was able to help people solving problems with programming, what made me fell in love with technology a little more and helped me getting into the professional road of Software Development. As a volunteer, I improved the IBESVA's Website using/improving all knowledge I had when it was about `HTML5, CSS3, jQuery and Adobe XD Prototyping`.
+It was my first volunteering experience as a software developer. For the first time I was able to help people solving problems with programming, what made me fell in love with technology a little more and helped me getting into the professional road of Software Development. As a volunteer, I improved the IBESVA's Website using/improving all knowledge I had when it was about `HTML5, CSS3, jQuery and Adobe XD Prototyping`.
