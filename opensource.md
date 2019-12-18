@@ -23,4 +23,4 @@ Guardog is a online website that provides an auto ping system for heroku free ap
 
 This idea first started because I usually put lots of projects on heroku because of its free tier, but It sleeps every 30 minutes, what is really bad for job application apps and even for personal projects that you want to get online 24/7.
 
-This project is made in ``Typescript``, available on [**website**](https://github.com/guilhermebkel/guardog) and on [**github**](https://guardog.herokuapp.com/)
+This project is made in ``Typescript``, available on [**website**](https://github.com/guilhermebkel/guardog) and on [**github**](https://guardog.herokuapp.com/).
