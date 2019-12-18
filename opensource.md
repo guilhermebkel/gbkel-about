@@ -19,7 +19,7 @@ This library is made in ``Typescript``, available on [**npm**](https://www.npmjs
 --- 
 
 ## Guardog
-Guardog is a online website that provides a auto ping system for heroku free apps.
+Guardog is a online website that provides an auto ping system for heroku free apps.
 
 This idea first started because I usually put lots of projects on heroku because of its free tier, but It sleeps every 30 minutes, what is really bad for job application apps and even for personal projects that you want to get online 24/7.
 
