@@ -2,7 +2,7 @@
 
 <img src="assets/experiences/picsize.jpg" href="picsize.com.br" align="left" width="120">
 
-**[ 2019/12 - Current ]** [PICSIZE](https://picsize.com.br) ``(Junior Web Full-stack Developer)``
+**[ 2019/12 - Current ]** [PICSIZE](https://picsize.com.br) ``(Web Full-stack Developer)``
 
 In december of 2019, after completing almost 6 months of internship, I've got invited to get a new software developer position.
 
