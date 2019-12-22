@@ -23,6 +23,7 @@ Styled Components
 Angular 8
 Next
 jQuery
+Gatsby
 ```
 
 ***Back-end***
