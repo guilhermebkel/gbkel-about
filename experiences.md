@@ -2,7 +2,7 @@
 
 <img src="assets/experiences/picsize.jpg" href="picsize.com.br" align="left" width="120">
 
-**[ 2019/12 - Current ]** [PICSIZE](https://picsize.com.br) ``(Web Full-stack Developer)``
+**[ 2020/01 - Current ]** [PICSIZE](https://picsize.com.br) ``(Web Full-stack Developer)``
 
 In december of 2019, after completing almost 6 months of internship, I've got invited to get a new software developer position.
 
@@ -11,7 +11,7 @@ In december of 2019, after completing almost 6 months of internship, I've got in
 <img src="assets/experiences/picsize.jpg" href="picsize.com.br" align="left" width="120">
 
 
-**[ 2019/06 - 2019/12 ]** [PICSIZE](https://picsize.com.br) ``(Web Full-stack Intern)``
+**[ 2019/06 - 2020/01 ]** [PICSIZE](https://picsize.com.br) ``(Web Full-stack Intern)``
 
 That's a startup which has solutions for the photographer job flow, since the moment he finishes taking pictures till he delivers it to his clients. 
 
@@ -25,7 +25,7 @@ Besides, I had great realizations there, like, `refactored its landing page, cre
 
 <img src="assets/experiences/ibesva.jpeg" align="left" width="120">
 
-**[ 2019/02 - Current ]** [IBESVA](https://ibesva.netlify.com) ``(Web Front-end Developer)``
+**[ 2019/02 - 2019/10 ]** [IBESVA](https://ibesva.netlify.com) ``(Web Front-end Developer)``
 
 That's a Non-governmental organization that helps the education cause.
 
