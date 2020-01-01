@@ -94,6 +94,8 @@ Serverless
 ***Pub/Sub***
 ```
 Kafka
+SQS
+Redis
 ```
 
 ***Socket***
