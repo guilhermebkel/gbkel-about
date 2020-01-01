@@ -149,11 +149,12 @@ MVC
 ***Queue***
 ```
 Bull
+Async
 ```
 
 ***Electronics***
 ```
-Arduíno
+Arduino
 ```
 
 ***Artificial Intelligence***
