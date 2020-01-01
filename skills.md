@@ -126,6 +126,13 @@ Git Actions
 Captain Rover
 ```
 
+***Analytics/Monitoring***
+```
+Grafana
+Sentry
+Google Analytics
+```
+
 ***Web Scrapping***
 ```
 Puppeteer.js
