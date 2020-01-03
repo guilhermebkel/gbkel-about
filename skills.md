@@ -127,6 +127,14 @@ Git Actions
 ***PasS***
 ```
 Captain Rover
+Heroku
+```
+
+***Deploy***
+```
+Firebase
+Netlify
+Zeit
 ```
 
 ***Analytics/Monitoring***
