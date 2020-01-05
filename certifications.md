@@ -48,6 +48,11 @@ That's basically a summary of all the certificates I've got by completing course
 - R 101
 - Deep Learning with TensorFlow
 
+### Universidade Estabilis
+- AWS na prática
+- Agile Scrum Foundation
+- DevOps Foundation
+
 ### Fundação Bradesco
 - Fundamentos de TI - Hardware e Software
 - Introdução a Redes de Computadores
@@ -83,4 +88,3 @@ That's basically a summary of all the certificates I've got by completing course
 - Curso de Introdução à OKRs
 - Scrum Fundamentals Certified
 - Design na empresa
-- DevOps Foundation
