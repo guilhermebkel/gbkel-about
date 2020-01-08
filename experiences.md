@@ -6,7 +6,7 @@
 
 In december of 2019, after completing almost 6 months of internship, I've got invited to get a new software developer position.
 
-At this new position, I helped them and learned about `Sofware Project Management`.
+At this new position, I helped them and learned about `Software Project Management`.
 
 On top of that, it is important to know that I've `created a queue system for picture uploads on front-end with retry and fallback delay features`.
 
@@ -33,4 +33,8 @@ Besides, I had great realizations there, like, `refactored its landing page, cre
 
 That's a Non-governmental organization that helps the education cause.
 
-It was my first volunteering experience as a software developer. For the first time I was able to help people solving problems with programming, what made me fell in love with technology a little more and helped me getting into the professional road of Software Development. As a volunteer, I refactored the IBESVA's Website Design using/improving all knowledge I had when it was about `HTML5, CSS3, jQuery and Adobe XD`.
+It was my first volunteering experience as a software developer. For the first time I was able to help people solving problems with programming, what made me fell in love with technology a little more and helped me getting into the professional road of Software Development.
+
+As a starter at the world of programming, I've learned a lot about `HTML5, CSS3, jQuery and Adobe XD`.
+
+As a volunteer, I `refactored the IBESVA's website design`.
