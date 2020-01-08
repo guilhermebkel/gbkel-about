@@ -6,6 +6,10 @@
 
 In december of 2019, after completing almost 6 months of internship, I've got invited to get a new software developer position.
 
+At this new position, I helped them and learned about `Sofware Project Management`.
+
+On top of that, it is important to know that I've `created a queue system for picture uploads on front-end with retry and fallback delay features`.
+
 <br></br>
 
 <img src="assets/experiences/picsize.jpg" href="picsize.com.br" align="left" width="120">
