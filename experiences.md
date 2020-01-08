@@ -37,4 +37,4 @@ It was my first volunteering experience as a software developer. For the first t
 
 As a starter at the world of programming, I've learned a lot about `HTML5, CSS3, jQuery and Adobe XD`.
 
-As a volunteer, I `refactored the IBESVA's website design`.
+As a volunteer, I `refactored their website design`.
