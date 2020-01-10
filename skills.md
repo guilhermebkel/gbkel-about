@@ -94,6 +94,8 @@ Serverless
 ***Pub/Sub***
 ```
 Kafka
+SQS
+Redis
 ```
 
 ***Socket***
@@ -125,6 +127,21 @@ Git Actions
 ***PasS***
 ```
 Captain Rover
+Heroku
+```
+
+***Deploy***
+```
+Firebase
+Netlify
+Zeit
+```
+
+***Analytics/Monitoring***
+```
+Grafana
+Sentry
+Google Analytics
 ```
 
 ***Web Scrapping***
@@ -140,11 +157,28 @@ MVC
 ***Queue***
 ```
 Bull
+Async
+```
+
+***Web Server***
+```
+Nginx
+```
+
+***SSL Certificate***
+```
+Certbot
+```
+
+***Code Quality***
+```
+ESLint
+TSLint
 ```
 
 ***Electronics***
 ```
-Arduíno
+Arduino
 ```
 
 ***Artificial Intelligence***
