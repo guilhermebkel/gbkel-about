@@ -2,22 +2,30 @@
 
 <img src="assets/education/ufmg.png" align="left" width="120">
 
-**[ 2019 - Current ]** Universidade Federal de Minas Gerais
+**[ 2019 - Current ]** Bachelor's degree in Electrical Engineering with emphasis on Computer Science
 
-Currently I'm doing a bachelor's degree in Electrical Engineering with emphasis on Computer Science.
+Currently I'm enrolled on this course at **Universidade Federal de Minas Gerais**.
 
 <br>
 
 <img src="assets/education/freecodecamp.jpeg" align="left" width="120">
 
-**[ 2019 ]** freeCodeCamp
+**[ 2018-2019 ]** Web Full-stack Development Bootcamp
 
-I did an online bootcamp with more than 1000 hours of study in Web Full-Stack development.
+I did this online bootcamp on **freeCodeCamp**.
+
+I have reached more than 1000 hours of study in Web Full-Stack development and been in touch a lot with topics such as ```Responsive Web Design, Javascript Algorithms and Data Structures, Front End Libraries, APIs and Microservices, Information Security and Quality Assurance```
+
+So, I've gained solid knowledge about ```Node.js, React.js, Mocha.js, Express.js, Passport.js, Javascript, HTML5, CSS3, bcrypt, Helmet.js```.
 
 <br><br>
 
 <img src="assets/education/ifes.png" align="left" width="120">
 
-**[ 2015 - 2019 ]** Instituto Federal do Espírito Santo
+**[ 2015 - 2018 ]** Mechanics Technical
 
-I did a technical course about Mechanics.
+At highschool I did a course focused on **Mechanics** at **Instituto Federal do Espírito Santo**.
+
+I've improved soft skills such as ```Communication and Teamwork```.
+
+Besides, I got in touch with ```Programming``` as well.
