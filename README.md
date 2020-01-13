@@ -22,3 +22,4 @@ That's the repository I use to track the road I'm taking everyday in order to be
 - [ Certifications ](certifications.md)
 - [ Personal Projects ](projects.md)
 - [ Open Source Projects](opensource.md)
+- [ Learning Notes ](learning-notes.md)
