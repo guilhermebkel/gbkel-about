@@ -149,9 +149,11 @@ Google Analytics
 Puppeteer.js
 ```
 
-***Project Pattern***
+***Software Architecture***
 ```
 MVC
+Event Driven
+Serverless
 ```
 
 ***Queue***
