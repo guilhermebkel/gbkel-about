@@ -1,8 +1,6 @@
 # [Home](../../README.md) / [Learning Notes](../../learning-notes.md) / Mindset: The new psychology of success
 
-<p align="center">
-	<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://ler.amazon.com.br/kp/card?asin=B01M036N60&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_7bxjEb4KM14AV" ></iframe>
-</p>
+<img align="left" width="auto" height="200px" src="../../assets/book-covers/mindset-the-new-psychology-of-success.jpg"></img>
 
 This book explains the existence of two kinda mindsets:
 - Fixed: People which in contact with a challenge, gets stuck and just gives up on it.

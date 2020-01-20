@@ -1,6 +1,6 @@
 # [Home](README.md) / Experiences
 
-<img src="assets/experiences/picsize.jpg" href="picsize.com.br" align="left" width="120">
+<img src="assets/experiences/picsize.jpg" align="left" width="120">
 
 **[ 2019/12 - Current ]** [PICSIZE](https://picsize.com.br) ``(Web Full-stack Developer)``
 
@@ -12,7 +12,7 @@ On top of that, it is important to know that I've `created a queue system for pi
 
 <br></br>
 
-<img src="assets/experiences/picsize.jpg" href="picsize.com.br" align="left" width="120">
+<img src="assets/experiences/picsize.jpg" align="left" width="120">
 
 
 **[ 2019/06 - 2019/12 ]** [PICSIZE](https://picsize.com.br) ``(Web Full-stack Intern)``
