@@ -4,7 +4,7 @@
 	<img width="auto" height="200px" src="../../assets/book-covers/mindset-the-new-psychology-of-success.jpg"></img>
 </p>
 
-## Resume
+## Summary
 This book explains the existence of two kinda mindsets: **Fixed** and **Growth**.
 
 ## Basic difference between mindsets
