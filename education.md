@@ -10,11 +10,11 @@ Currently I'm enrolled on this course at **Universidade Federal de Minas Gerais*
 
 <img src="assets/education/freecodecamp.jpeg" align="left" width="120">
 
-**[ 2018-2019 ]** Web Full-stack Development Bootcamp
+**[ 2018-2019 ]** Full-stack Development Bootcamp
 
 I did this online bootcamp on **freeCodeCamp**.
 
-I have reached more than 1000 hours of study in Web Full-Stack development and been in touch a lot with topics such as ```Responsive Web Design, Javascript Algorithms and Data Structures, Front End Libraries, APIs and Microservices, Information Security and Quality Assurance```
+I have reached more than 1000 hours of study in Full-Stack development and been in touch a lot with topics such as ```Responsive Web Design, Javascript Algorithms and Data Structures, Front End Libraries, APIs and Microservices, Information Security and Quality Assurance```
 
 So, I've gained solid knowledge about ```Node.js, React.js, Mocha.js, Express.js, Passport.js, Javascript, HTML5, CSS3, bcrypt, Helmet.js```.
 
