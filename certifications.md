@@ -4,6 +4,9 @@ That's basically a summary of all the certificates I've got by completing course
 
 ---
 
+### Udemy
+- Kubernetes Hands-On - Deploy Microservices to the AWS Cloud
+
 ### freeCodeCamp
 - Front End Libraries
 - Information Security and Quality Assurance
