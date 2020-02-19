@@ -104,6 +104,11 @@ Socket.io
 WebSocket
 ```
 
+***Container Orchestration***
+```
+Kubernetes
+```
+
 ***Application Containerization***
 ```
 Docker
@@ -165,6 +170,12 @@ Async
 ***Web Server***
 ```
 Nginx
+```
+
+***Styling Libraries***
+```
+Ant Design
+Material UI
 ```
 
 ***SSL Certificate***
