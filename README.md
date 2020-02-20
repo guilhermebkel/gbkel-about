@@ -1,6 +1,6 @@
 # LIFE LONG ROAD
 
-Hello, my name is Guilherme Bromonschenkel.
+Hello, my name is Guilherme Mota Bromonschenkel Lima.
 
 My road first started when I was 14 years old and my cousin invited me to join a programming course he'd already done. That was my first contact with development (in C language) and I loved every part of it from having issues with forgetting to put some semicolons in the end of line to the making of a 2048 Game in order to finish the course.
 
