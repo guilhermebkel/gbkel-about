@@ -23,3 +23,14 @@ This book gives some tips about how to become a Tech Leader.
 - **Clearly communicate:** If you're expecting something to happen by other people, talk about it.
 - **Calibrate your response:** Lot of things can happen during the mentoring, so, in order to get a good project done by the intern, try to get in touch with him (once a week, etc) to give the right adjustments on what is going to be done.
 - **Basic TO-DOs when you're going to mentoring an intern**: Prepare his arrival (prepare the place, tools, etc); Have a project for him to work on (have a clear project to get him to work on); Plan to have him present the work he did at the end of the program (optional).
+
+## Tips to be a great Tech Lead
+- **Understand the architecture:** If you were given to lead a project that you don't understand the architecture, give it a time to get it. Try to understand how to data flows on it, how it affects the final product and what is the core logic.
+- **Be a Team Player:** If you're doing all the interesting stuff, try to find boring ones since it will help you understand the project problems and gaps. By doing that, you'll allow to other programmers to stretch themselves to big improvements (since they will be doing some harder stuffs).
+- **Lead technical decisions:** You'll be involved in a lot of technical decisions, but it doesn't mean you have to decide everything. Try to understand what decisions need to be done by you and others that need to be done by the team and people with more expertise.
+- **Communicate:** Give the team members a moment to talk and try to represent your team on the meetings. Now your productivity is less important than the productivity of the whole team.
+
+## Good manager, Bad Manager
+- **The alpha geek:** The person with high technical level, able to solve the most hard problems, able to inspire juniors but, accepts only his solution as the better and unique to be applied, most part of the time not letting other programmers being able to solve problems.
+- **The process czar:** Tries to implement a process meant to be the unique able to solve all problems. Blame all the problems on the fact of people doesn't follow the process (only he does it most part of the time). "The process is that way, and we can not change it, since that's the unique way to help solving all project problems".
+- **Micromanager, delegator:** Try to get in touch with every single decision made to the project (what makes the team to not feel trusted) and if it doesn't follow what he expected, he takes on the project for himself and try to do everything the "right" way in order to deliver the project to production on time.
