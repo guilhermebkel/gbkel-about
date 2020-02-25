@@ -5,7 +5,8 @@ include:
 name: "Guilherme Bromonschenkel - Life Long Road"
 plugins:
   - jekyll-relative-links
-  - jekyll-github-metadata
+	- jekyll-github-metadata
+  - jekyll-optional-front-matter
 relative_links:
   collections: true
   enabled: true
