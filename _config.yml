@@ -4,6 +4,7 @@ description: All info about me, my projects, skills, education, experiences and 
 
 plugins:
 	- jekyll-relative-links
+  - jekyll-github-metadata
 
 relative_links:
   enabled: true
@@ -13,6 +14,5 @@ include:
 	- README.md
 
 google_analytics: UA-140879800-1
-	- README.md
 
 theme: jekyll-theme-hacker
