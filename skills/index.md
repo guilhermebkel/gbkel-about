@@ -1,4 +1,4 @@
-# [Home](README.md) / Skills
+# Skills
 
 ***Programming Languages***
 ```

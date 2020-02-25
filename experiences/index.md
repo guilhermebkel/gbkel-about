@@ -1,4 +1,4 @@
-# [Home](README.md) / Experiences
+# Experiences
 
 <img src="assets/experiences/picsize.jpg" align="left" width="120">
 

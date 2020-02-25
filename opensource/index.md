@@ -1,4 +1,4 @@
-# [Home](README.md) / Open Source Projects
+# Open Source Projects
 
 ## Gitorm
 Gitorm is a library I've made in order to provide a fast/easy to use interface to make common CRUD actions on a github repository you own.

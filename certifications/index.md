@@ -1,8 +1,4 @@
-# [Home](README.md) / Certifications
-
-That's basically a summary of all the certificates I've got by completing courses that are inside the **certificates** folder.
-
----
+# Certifications
 
 ### Udemy
 - Kubernetes Hands-On - Deploy Microservices to the AWS Cloud

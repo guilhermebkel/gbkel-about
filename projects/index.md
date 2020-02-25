@@ -1,4 +1,4 @@
-# [Home](README.md) / Projects
+# Projects
 
 ## Gbkel
 
