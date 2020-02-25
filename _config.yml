@@ -1,7 +1,15 @@
+name: Guilherme Bromonschenkel - Life Long Road
+
+description: All info about me, my projects, skills, education, experiences and certifications. Basically everything about the life long road I'm taking in order to become the kinda developer I aspire to be.
+
 plugins:
-  - jekyll-relative-links
+	- jekyll-relative-links
+
 relative_links:
   enabled: true
-  collections: true
+	collections: true
+
 include:
-  - README.md
+	- README.md
+
+google_analytics: UA-140879800-1
