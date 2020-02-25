@@ -1,4 +1,4 @@
-# [Home](../../README.md) / [Learning Notes](../../learning-notes.md) / The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+# The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 
 <p align="center">
 	<img width="auto" height="200px" src="../../assets/book-covers/the-managers-path-a-guide-for-tech-leaders-navigating-growth-and-change.jpg"></img>

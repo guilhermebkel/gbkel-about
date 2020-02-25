@@ -1,4 +1,4 @@
-# [Home](../../README.md) / [Learning Notes](../../learning-notes.md) / Mindset: The new psychology of success
+# Mindset: The new psychology of success
 
 <p align="center">
 	<img width="auto" height="200px" src="../../assets/book-covers/mindset-the-new-psychology-of-success.jpg"></img>
