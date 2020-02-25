@@ -6,7 +6,7 @@ nav_order: 1
 # Mindset: The new psychology of success
 
 <p align="center">
-	<img width="auto" height="200px" src="../../assets/book-covers/mindset-the-new-psychology-of-success.jpg"></img>
+	<img width="auto" height="200px" src="../assets/book-covers/mindset-the-new-psychology-of-success.jpg">
 </p>
 
 ## Summary
