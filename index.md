@@ -1,3 +1,7 @@
+---
+nav_order: 1
+---
+
 # Home
 
 Hello, my name is Guilherme Mota Bromonschenkel Lima.

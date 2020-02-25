@@ -1,3 +1,7 @@
+---
+nav_order: 3
+---
+
 # Experiences
 
 <img src="assets/experiences/picsize.jpg" align="left" width="120">
