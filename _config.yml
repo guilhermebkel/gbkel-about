@@ -16,3 +16,5 @@ aux_links:
   "Life Long Road on GitHub":
     - "//github.com/guilhermebkel/life-long-road"
 ga_tracking: UA-140879800-1
+exclude:
+  - README.md
