@@ -11,4 +11,4 @@ relative_links:
   collections: true
   enabled: true
 # theme: jekyll-theme-hacker
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "pmarsceill/just-the-docs"
