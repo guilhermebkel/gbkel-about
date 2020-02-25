@@ -2,7 +2,6 @@ description: "All info about me, my projects, skills, education, experiences and
 google_analytics: UA-140879800-1
 include:
   - README.md
-name: "Guilherme Bromonschenkel - Life Long Road"
 plugins:
   - jekyll-relative-links
   - jekyll-github-metadata
