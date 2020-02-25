@@ -6,7 +6,9 @@ plugins:
   - jekyll-relative-links
   - jekyll-github-metadata
   - jekyll-optional-front-matter
+  - jekyll-remote-theme
 relative_links:
   collections: true
   enabled: true
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+remote_theme: "mmistakes/minimal-mistakes@4.18.1"
