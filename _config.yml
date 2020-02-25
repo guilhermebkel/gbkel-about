@@ -1,13 +1,13 @@
 description: "All info about me, my projects, skills, education, experiences and certifications. Basically everything about the life long road I'm taking in order to become the kinda developer I aspire to be."
 google_analytics: UA-140879800-1
-include: 
-	- README.md
+include:
+  - README.md
 name: "Guilherme Bromonschenkel - Life Long Road"
-plugins: 
-	- jekyll-relative-links
-	- jekyll-github-metadata
-relative_links: 
-	collections: true
-	enabled: true
+plugins:
+  - jekyll-relative-links
+  - jekyll-github-metadata
+relative_links:
+  collections: true
+  enabled: true
 theme: jekyll-theme-hacker
 	
