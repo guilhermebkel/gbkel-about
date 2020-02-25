@@ -1,3 +1,8 @@
+---
+parent: Learning Notes
+nav_order: 2
+---
+
 # The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 
 <p align="center">

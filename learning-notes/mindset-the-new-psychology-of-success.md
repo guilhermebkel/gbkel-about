@@ -1,3 +1,8 @@
+---
+parent: Learning Notes
+nav_order: 1
+---
+
 # Mindset: The new psychology of success
 
 <p align="center">
