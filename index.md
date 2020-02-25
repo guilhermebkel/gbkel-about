@@ -13,13 +13,3 @@ But, everything changed when I started studying web development and making proje
 So, after almost 4 years of no programming, I've got back in the road of development and now I can tell I'm a software developer focused mainly on web development, but heavily passionate about programming, software architecture, complex systems and technology in general.
 
 That's the repository I use to track the road I'm taking everyday in order to become a better developer, from my professional and volunteering experiences to my education, projects and skills gained through my life of software developer.
-
-## Below is what you can find here:
-
-- [ Skills ](skills.md)
-- [ Education ](education.md)
-- [ Experiences ](experiences.md)
-- [ Certifications ](certifications.md)
-- [ Personal Projects ](projects.md)
-- [ Open Source Projects](opensource.md)
-- [ Learning Notes ](learning-notes.md)
