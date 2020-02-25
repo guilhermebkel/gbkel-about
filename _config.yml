@@ -13,3 +13,6 @@ include:
 	- README.md
 
 google_analytics: UA-140879800-1
+	- README.md
+
+theme: jekyll-theme-hacker
