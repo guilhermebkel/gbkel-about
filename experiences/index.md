@@ -4,7 +4,7 @@ nav_order: 3
 
 # Experiences
 
-<img src="assets/experiences/picsize.jpg" align="left" width="120">
+<img src="../assets/experiences/picsize.jpg" align="left" width="120">
 
 **[ 2019/12 - Current ]** [PICSIZE](https://picsize.com.br) ``(Full-stack Developer)``
 
@@ -14,10 +14,9 @@ At this new position, I helped them and learned about `Software Project Manageme
 
 On top of that, it is important to know that I've `created a queue system for picture uploads on front-end with retry and fallback delay features, solved a cloud infrastructure problem that was getting our upload system into lot of failures, made a lightroom plugin to integrate the adobe lightroom with our core application, took part of project requirements decision, mentored interns and stakeholders, headed code quality assurance with code reviewing and code refactoring`.
 
-<br></br>
+<br />
 
-<img src="assets/experiences/picsize.jpg" align="left" width="120">
-
+<img src="../assets/experiences/picsize.jpg" align="left" width="120">
 
 **[ 2019/06 - 2019/12 ]** [PICSIZE](https://picsize.com.br) ``(Full-stack Intern)``
 
@@ -29,9 +28,9 @@ Even as a simple Intern, I was able to help them while learning from aws cloud a
 
 Besides, I had great realizations there, like, `refactored its landing page, created a distributed information system based on Redis, solved a bug that was making them lose clients everyday, found and helped solving an architecture bug that kept all the platform offline for almost 4 entire days, created the event oriented microservices system, created a background processing application to work on side jobs such as mail sending and pictures processing, made a custom react hook for data validation/sanitization with help of back-end to improve user feedback, created a log system for some background processing jobs and picture uploads, made some data reports and headed a project to refactor all the platform back-end/front-end from their client to their api and background processing app while keeping in touch with senior developers`.
 
-<br></br>
+<br />
 
-<img src="assets/experiences/ibesva.jpeg" align="left" width="120">
+<img src="../assets/experiences/ibesva.jpeg" align="left" width="120">
 
 **[ 2019/02 - 2019/10 ]** [IBESVA](https://ibesva.netlify.com) ``(Front-end Developer)``
 

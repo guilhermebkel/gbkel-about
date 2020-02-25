@@ -5,6 +5,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-optional-front-matter
   - jekyll-remote-theme
+  - jekyll-seo-tag
 relative_links:
   collections: true
   enabled: true

@@ -4,7 +4,7 @@ nav_order: 5
 
 # Education
 
-<img src="assets/education/ufmg.png" align="left" width="120">
+<img src="../assets/education/ufmg.png" align="left" width="120">
 
 **[ 2019 - Current ]** Bachelor's degree in Electrical Engineering with emphasis on Computer Science
 
@@ -12,7 +12,7 @@ Currently I'm enrolled on this course at **Universidade Federal de Minas Gerais*
 
 <br>
 
-<img src="assets/education/freecodecamp.jpeg" align="left" width="120">
+<img src="../assets/education/freecodecamp.jpeg" align="left" width="120">
 
 **[ 2018-2019 ]** Full-stack Development Bootcamp
 
@@ -24,7 +24,7 @@ So, I've gained solid knowledge about ```Node.js, React.js, Mocha.js, Express.js
 
 <br><br>
 
-<img src="assets/education/ifes.png" align="left" width="120">
+<img src="../assets/education/ifes.png" align="left" width="120">
 
 **[ 2015 - 2018 ]** Mechanics Technical
 
