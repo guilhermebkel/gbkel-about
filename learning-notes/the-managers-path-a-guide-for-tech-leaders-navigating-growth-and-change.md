@@ -39,3 +39,29 @@ This book gives some tips about how to become a Tech Leader.
 - **The alpha geek:** The person with high technical level, able to solve the most hard problems, able to inspire juniors but, accepts only his solution as the better and unique to be applied, most part of the time not letting other programmers being able to solve problems.
 - **The process czar:** Tries to implement a process meant to be the unique able to solve all problems. Blame all the problems on the fact of people doesn't follow the process (only he does it most part of the time). "The process is that way, and we can not change it, since that's the unique way to help solving all project problems".
 - **Micromanager, delegator:** Try to get in touch with every single decision made to the project (what makes the team to not feel trusted) and if it doesn't follow what he expected, he takes on the project for himself and try to do everything the "right" way in order to deliver the project to production on time.
+
+## Tips for delegating effectively
+- **Understands the team's goals:** When you feel that you need to make some micromanagement, try to understand how the team  is measuring their success. Based on that information, you'll see what course correction you need to do.
+- **Gather information first from systems before going to people:** Seek code version, subscribe to alerts, look at the metrics, but don't abuse of it (like doing that every second) because you can make the team uncomfortable and less productive (no one likes to be stalked).
+- **Establish standards for code and systems:** It is important to set some standards to be followed by the project making process, since it simplifies the communication inside the team and helps knowing what details are important to talk about.
+- **Treat the open sharing information, good or bad, in a neutral to positive way:** If someone is struggling on some task and while not asking for help or even hiding important information intentionally, it means that you need to treat the share of information in another way. You have to make people feeling comfortable to share info about project outgoing, while giving them the trust to do what they feel that is needed to do.
+
+## Tips for creating a culture of continuous feedback
+- **Know your people:** It is important to know what is the people goals, weakness, strengths, the leven their currently operating at, where may them need to improve to next level. To help with it, you can use previous performance review or even sit down with them to ask about it.
+- **Observe your people:** You can not give feedback if you're not paying attention to the people around you. You can task yourself to regularly look for people that need praises, weaknesses and it is important to do this fast (you can forget if you let the week pass or even the month).
+- **Provide lightweight and regular feedback:** Starts with positive feedback (generally people respond better to this one) and later with negative/correctives ones, since people will get more comfortable to hear you.
+- **Provide coaching:** Generally continuous feedback works better when you give some coaching with it. When things are going well, praise them, but at the same time, try to make suggestion of what could be done to be even better in the future.
+
+## Writing and delivering performance review
+- **Give yourself enough time and start early:** Even if you have lots of work to do, plan to spend a solid time working on reviews, you owe your team enough time to read collected feedback, digest it and summarize it.
+- **Try to look for the whole year, not days or weeks:** Try to keep running a summary during your 1-1s, a full year feedback is important to see not only the accomplishments but also the growth and change you noticed on people.
+- **Use concrete examples:** Try not to underlay on bias, but use concrete examples of what happened in order to support a point.
+- **Spend plenty time on accomplishments and strengths**: Celebrate achievements, talk about what's going well and give plenty of praises for good work. Don't skip over the good stuff in order to obsess over the improvement areas.
+- **Avoid big surprises**: Set expectations appropriately before reviews. If someone is under performing across the board, the review should not be his first time getting that feedback.
+
+## Cultivating careers
+If you're a manager, you're going to play a key role in getting people on your team promoted.
+
+Generally, you'll look at them people on your team a couple times a year, so consider their job level and ask yourself if any of that people are closer to the next level.
+
+You should also start identifying promotion-worthy projects and trying to give those projects to people who are close to promotion.
