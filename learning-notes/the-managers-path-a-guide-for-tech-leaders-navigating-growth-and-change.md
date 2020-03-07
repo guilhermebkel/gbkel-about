@@ -35,11 +35,6 @@ This book gives some tips about how to become a Tech Leader.
 - **Lead technical decisions:** You'll be involved in a lot of technical decisions, but it doesn't mean you have to decide everything. Try to understand what decisions need to be done by you and others that need to be done by the team and people with more expertise.
 - **Communicate:** Give the team members a moment to talk and try to represent your team on the meetings. Now your productivity is less important than the productivity of the whole team.
 
-## Good manager, Bad Manager
-- **The alpha geek:** The person with high technical level, able to solve the most hard problems, able to inspire juniors but, accepts only his solution as the better and unique to be applied, most part of the time not letting other programmers being able to solve problems.
-- **The process czar:** Tries to implement a process meant to be the unique able to solve all problems. Blame all the problems on the fact of people doesn't follow the process (only he does it most part of the time). "The process is that way, and we can not change it, since that's the unique way to help solving all project problems".
-- **Micromanager, delegator:** Try to get in touch with every single decision made to the project (what makes the team to not feel trusted) and if it doesn't follow what he expected, he takes on the project for himself and try to do everything the "right" way in order to deliver the project to production on time.
-
 ## Tips for delegating effectively
 - **Understands the team's goals:** When you feel that you need to make some micromanagement, try to understand how the team  is measuring their success. Based on that information, you'll see what course correction you need to do.
 - **Gather information first from systems before going to people:** Seek code version, subscribe to alerts, look at the metrics, but don't abuse of it (like doing that every second) because you can make the team uncomfortable and less productive (no one likes to be stalked).
@@ -65,3 +60,26 @@ If you're a manager, you're going to play a key role in getting people on your t
 Generally, you'll look at them people on your team a couple times a year, so consider their job level and ask yourself if any of that people are closer to the next level.
 
 You should also start identifying promotion-worthy projects and trying to give those projects to people who are close to promotion.
+
+## Debugging dysfunctional teams
+- **Not shipping:** One of the possible causes is that your team is using processes or tools that is hard to get work done quickly (per example releasing changes to productions once a week, which can hide pain points, bad testing, etc). You have to create a balance between pushing and holding back the back at all.
+- **People drama:** You have to be brave and nip people drama in the bud quickly, since the negative person can make all the team unhappily and as long time as it takes, harder it is to finish it.
+- **Unhappiness due to overwork:** In case the problem is due to the instability of the system, make clear measures of alerts, downtimes and incidents, since it is important to decrease it and plan system sustainability. In case it is due to pressing time-critical release, play a cheerleader role, make it fun, make it clear that they'll have a break time after the push, learn with this situation to avoid it in the future by taking the tasks that can be done without pushing all team too much.
+
+## How to drive good decisions
+- **Create a data-driven culture:** Try to get data about business, product, customer behavior, quality measures, and every other thing that can help you justify your decisions.
+- **Flex your own product muscles:** You need to get in touch with what is important to your customer (the same evaluates for writing tools for other engineers, support team, etc. Treat them as customers.) So it is important to take time to develop customer empathy.
+- **Look into the future:** You need to think two steps ahead, from a product and technology perspective, getting a sense of where the product roadmap is going helps you guide the technical roadmap, since many technical projects are supported on the strength of their ability to enable new feature more easily.
+- **Review the outcome of your decisions and projects:** Try to get to know if your hypotheses were correct about doing that project, feature, etc.
+
+---
+
+## Good manager, Bad Manager
+- **The alpha geek:** The person with high technical level, able to solve the most hard problems, able to inspire juniors but, accepts only his solution as the better and unique to be applied, most part of the time not letting other programmers being able to solve problems.
+- **The process czar:** Tries to implement a process meant to be the unique able to solve all problems. Blame all the problems on the fact of people doesn't follow the process (only he does it most part of the time). "The process is that way, and we can not change it, since that's the unique way to help solving all project problems".
+- **Micromanager, delegator:** Try to get in touch with every single decision made to the project (what makes the team to not feel trusted) and if it doesn't follow what he expected, he takes on the project for himself and try to do everything the "right" way in order to deliver the project to production on time.
+- **Conflict avoider, conflict tamer:** Expose what problems are happening, don't hide them, but use your judgment as to what should be addressed. The key questions to ask are: Is this an ongoing problem? Or something you've personally noticed? Or a problem that many people on the team are struggling with? Is there a power dynamic or potential bias at play? The goal is to identify problems that are causing the team to work less effectively together.
+
+## Challenging situations
+- **Firing under performers:** One of the most important rules of management is the rule of no surprises, so, if the you know what the person is supposed to be giving you and it is not happening, you have to make it clear to him early. On top of that, don't put anyone on a improvement plan whom you wouldn't be happy to lose. In case you have an employee that asks yourself about what he needs to do to go to the next level and doesn't get there (by going again to comfort zone per example), try to explain and make it clear to him, give a chance to him to find a job in another part of the company or at another company (some times he needs it to shine).
+- **Team cohesion destroyers:** If your team are friendly, but if there's a person who the team hate to work with, he's probably a cohesion destroyer. The first type of it is called **The Brilliant Jerk -** He produces individually outsized results but is also ego-driven that creates a mixture of fear and dislike in almost everyone around him (the best way to avoid him is to not hire him). The second one is called **The Noncommunicator -** That's the person who hides information from you, your teammates, his product manager, the person who instead of talking things out with teammates, reverts their commits, or takes their tickets and does the work for them (you need to nip his bad habit in the bud as fast as possible, simply by making it clear to him, showing why this is a bad habit). The third it called **The Employee Who Lacks Respect -** It is simply the toxic person who doesn't treat others with respect (make it clear to him that's not a good habit, and, if he keeps doing that after, start making his process to move out to another team or simply to leave the company).
