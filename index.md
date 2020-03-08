@@ -13,7 +13,7 @@ In ```2014```, my cousin invited me to join a programming course he'd already do
 
 However, for some random life reasons I have not kept in touch with development for almost 5 years.
 
-In ```2018``` I started learning Data Science by myself because I was really missing it and there was a hype on Data Science in that moment.
+In ```2018``` I started learning Data Science by myself because I was really missing programming it and there was a hype on Data Science in that moment.
 
 Unfortunately, I did a bunch of courses about Data Science with that feeling of no belonging to it.
 
