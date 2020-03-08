@@ -21,6 +21,6 @@ In ```2019```, I started learning Web Development and got really happy and proud
 
 However, even being happy for learning and making apps for myself, I felt like I was missing something. Later I discovered it was: **Making apps that could be used by other people.**
 
-Then, I applied for volunteer jobs on some organizations and got my first one, which was needed to help me to understand the good feeling of delivering a solution to people and seeing them happy about it.
+Then, I applied for volunteer jobs on some organizations and got my first one, which was needed to help me to understand the good feeling of delivering solutions to people and seeing them happy about it.
 
 After this volunteer job, I've started applying for internships and got my first one. Ever since then, I've got really curious about web development, heavily passionate about programming, software architecture, complex systems, technology in general and really focused on delivering good code and experiences.
