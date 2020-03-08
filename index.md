@@ -17,7 +17,7 @@ In ```2018``` I started learning Data Science by myself because I was really mis
 
 Unfortunately, I did a bunch of courses about Data Science with that feeling of no belonging to it.
 
-In ```2019```, I started learning Web Development and got happy and proud of myself since I was making projects that I could see working on live while pushing boundaries and improving myself.
+In ```2019```, I started learning Web Development and got really happy and proud of myself since I was making projects that I could see working on live while pushing boundaries and improving myself.
 
 However, even being happy for learning and making apps for myself, I felt like I was missing something. Later I discovered it was: **Making apps that could be used by other people.**
 
