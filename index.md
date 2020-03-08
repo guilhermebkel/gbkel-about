@@ -4,16 +4,23 @@ nav_order: 1
 
 # Home
 
-Hello, my name is Guilherme Mota Bromonschenkel Lima.
+Here you can find all info about me, my projects, skills, education, experiences and certifications. Basically everything about the life long road I'm taking in order to become the kinda developer I aspire to be.
 
-My road first started when I was 14 years old and my cousin invited me to join a programming course he'd already done. That was my first contact with development (in C language) and I loved every part of it from having issues with forgetting to put some semicolons in the end of line to the making of a 2048 Game in order to finish the course.
+## My background
+Ever since I was a child and got my first computer I've became really curious about the technology world at all.
 
-After that course, for some random life reasons I have not kept in touch with development for almost 4 years, till I got approved on a Bachelor's Degree Electrical Engineering with minor on Computer Science and randomly decided to start programming again.
+In ```2014```, my cousin invited me to join a programming course he'd already done. That was my first contact with development (in C language) and I loved every part of it from having issues with forgetting to put some semicolons in the end of line to the making of a 2048 Game in order to finish the course.
 
-Then, I tried making data science, machine learning and a bunch of other courses with that feeling of no belonging to it.
+However, for some random life reasons I have not kept in touch with development for almost 5 years.
 
-But, everything changed when I started studying web development and making projects that I could see on live. After that 'match', I've got totally in love with web development and all the complex systems and technologies that revolves around it.
+In ```2018``` I started learning Data Science by myself because I was really missing it and there was a hype on Data Science in that moment.
 
-So, after almost 4 years of no programming, I've got back in the road of development and now I can tell I'm a software developer focused mainly on web development, but heavily passionate about programming, software architecture, complex systems and technology in general.
+Unfortunately, I did a bunch of courses about Data Science with that feeling of no belonging to it.
 
-That's the repository I use to track the road I'm taking everyday in order to become a better developer, from my professional and volunteering experiences to my education, projects and skills gained through my life of software developer.
+In ```2019```, I started learning Web Development and got happy and proud of myself since I was making projects that I could see working on live while pushing boundaries and improving myself.
+
+However, even being happy for learning and making apps for myself, I felt like I was missing something. Later I discovered it was: **Making apps that could be used by other people.**
+
+Then, I applied for volunteer jobs on some organizations and got my first one, which was needed to help me to understand the good feeling of delivering a solution to people and seeing them happy about it.
+
+After this volunteer job, I've started applying for internships and got my first one. Ever since then, I've got really curious about web development, heavily passionate about programming, software architecture, complex systems, technology in general and really focused on delivering good code and experiences.
