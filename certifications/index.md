@@ -5,6 +5,7 @@ nav_order: 4
 # Certifications
 
 ### Udemy
+- Advanced Javascript Concepts
 - GraphQL: Criando APIs Profissionais e Flexíveis
 - Kubernetes Hands-On - Deploy Microservices to the AWS Cloud
 
