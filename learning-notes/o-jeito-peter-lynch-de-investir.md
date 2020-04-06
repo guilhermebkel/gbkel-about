@@ -49,3 +49,40 @@ Lynch tells us about how the market works during the periods of high and low pri
 - It is useless to predict the market short term
 - The long term results are even more predictable and profitable than the ones of government bonds investment
 
+## How to choose a stock option
+
+At first, it is important to know that if you came across some stock option or have listened to people talking about it, it does not mean you have to buy it. Instead, take it as a start point to make some research about this stock option and in case you think that's a good one, you'll buy it.
+
+At last but not least, you have to make the same effort you make to buy food and things you like in buying stock options. There are different ones and there's no limit for the profit they can give you.
+
+Below you can see the steps you can be based at in order to choose a stock option:
+
+1. If you're going to choose a stock option based only in the power of a single product it sells, the first thing you need to discover is: What effect does this product make in the final brand result?
+
+2. Now, it is time to understand what is the size of the brand. 
+
+> Usually there are two kinda sizes when we talk about brands:
+>
+> **1. Small:** Generally brands there are small in the market they work
+>
+> **2. Big:** Generally brands there are big in the market they work
+>
+> It is important to you to be minded that it is mathematically impossible to a big brand to get more profits than a small one in the short term.
+
+3. After deciding the size of the brand, it is important to understand what is the kinda growth it has.
+
+> At first, when we talk about growth, we're saying that a brand is expanding, selling more, making more products, getting more profits year by year. Generally the individual growth can be measured by the PIB Growth compared to the Brand Growth.
+>
+> There are six growth types in which we can find a brand at:
+>
+> **1. Slow:** Big brands well stablished that grow in the same level of its country PIB [~4% per year] (generally they were growing fast in the past but reached a limit or something like that) and usually they pay good profits to its investors (since they don't know where to spend money).
+>
+> **2. Reliable:** Big brands well stablished that are really needed by people (Per example the brands that make food. Ex: Kellogs - They sell chips, everyone is addicted to chips and if a recession occurs, people will keep on buying it since it is cheaper than other foods) and grow above its country PIB [~12% per year].
+>
+> **3. Fast:** New and small brands that grow a lot more than its country PIB [~25% per year] (they can still grow a lot in a market of big and slowed growth brands. It is important to look for the ones with good balanced prices and that are gaining substantial profits. The tip here is to know when they will stop growing and how much to pay for its growth).
+>
+> **4. Cyclic:** ...
+>
+> **5. Diverting stock options:** ...
+>
+> **6. Recover:** ...
