@@ -73,7 +73,7 @@ Below you can see the steps you can be based at in order to choose a stock optio
 
 > At first, when we talk about growth, we're saying that a brand is expanding, selling more, making more products, getting more profits year by year. Generally the individual growth can be measured by the PIB Growth compared to the Brand Growth.
 >
-> There are six growth types in which we can find a brand at:
+> There are three growth types and three general types in which we can find a brand at:
 >
 > **1. Slow:** Big brands well stablished that grow in the same level of its country PIB [~4% per year] (generally they were growing fast in the past but reached a limit or something like that) and usually they pay good profits to its investors (since they don't know where to spend money).
 >
@@ -81,8 +81,8 @@ Below you can see the steps you can be based at in order to choose a stock optio
 >
 > **3. Fast:** New and small brands that grow a lot more than its country PIB [~25% per year] (they can still grow a lot in a market of big and slowed growth brands. It is important to look for the ones with good balanced prices and that are gaining substantial profits. The tip here is to know when they will stop growing and how much to pay for its growth).
 >
-> **4. Cyclic:** ...
+> **4. Cyclic:** Their profits and selling increase and decrease regularly during periods of the year. The tip here is to buy it during the final of decrease time and start of increase time.
 >
-> **5. Diverting stock options:** ...
+> **5. Recover:** These are the brands that don't even grow (since they got hurt by something really bad). The really good news about it, is that they usually have a chance to make a turnover and grow way too much. The tip here is to analyse this stock in a non passionate way and avoid ruin risk.
 >
-> **6. Recover:** ...
+> **6. Hidden stock options:** Usually the brands that have financial assets ignored by the Wall Street (Per example a brand that its stock options cost $1.20 but it owns lots of shoppings that for sure make its stock option price to be 10 times higher than it is sold on Wall Street).
