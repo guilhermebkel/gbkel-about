@@ -55,7 +55,7 @@ At first, it is important to know that if you came across some stock option or h
 
 At last but not least, you have to make the same effort you make to buy food and things you like in buying stock options. There are different ones and there's no limit for the profit they can give you.
 
-Below you can see the steps you can be based at in order to choose a stock option:
+Below you can see the steps you can be based at in order to make a history about the stock option in order to help you deciding to buy it or not:
 
 1. If you're going to choose a stock option based only in the power of a single product it sells, the first thing you need to discover is: What effect does this product make in the final brand result?
 
@@ -86,3 +86,33 @@ Below you can see the steps you can be based at in order to choose a stock optio
 > **5. Recover:** These are the brands that don't even grow (since they got hurt by something really bad). The really good news about it, is that they usually have a chance to make a turnover and grow way too much. The tip here is to analyse this stock in a non passionate way and avoid ruin risk.
 >
 > **6. Hidden stock options:** Usually the brands that have financial assets ignored by the Wall Street (Per example a brand that its stock options cost $1.20 but it owns lots of shoppings that for sure make its stock option price to be 10 times higher than it is sold on Wall Street).
+
+4. Now it is time to check if the brand fits in some traits:
+
+> Usually we'll be looking for easy to understand business and undiscovered good brands, since it is easier to get in touch with it through the days and to make a good profit. With that in mind, we can check if a brand fits in some of the 13 traits we believe that belong to the perfect brand.
+>
+> **1. The business looks damn:** The business is way too much easy to understand and extremely tedious that look like everyone could own it.
+>
+> **2. The brand works with damn stuff:** The brand works with really tedious and damn stuff (generally common stuffs, like making cans).
+>
+> **3. The brand works with disgusting stuff:** The brand works with disgusting stuff that almost make people to barf when they see it.
+>
+> **4. The brand is result of a company spin-off:** Generally after a spin-off, the new brands receive a new head to own it and make it works the right way (slowing down costs, etc).
+>
+> **5. The financial institutions are not owners of it and the analysts does not get in touch with it:** With these brands you're probably be able to buy it cheaper than it really is, before other people notice it is a good brand and it grows.
+>
+> **6. The bad famous looks to never stop growing:** That's another opportunity to buy the brand since it is cheap because of the bad famous people are making about it.
+>
+> **7. The brand works with depressing stuff:** The brand work stuff that are not disgusting, but are depressing (per example, has graveyards, sells coffins, etc).
+>
+> **8. The brand is inside a business of no growth:** Usually these brands will grow no matter what even if it takes lot of time.
+>
+> **9. The brand owns a niche:** Usually these brands has no rival on the place it lives and so, they're probably the only brand working with this stuff in that place.
+>
+> **10. The people can't live without the stuff the brand makes:** The brand makes stuff that the people are not capable of living without it. Basically it means that people will keep on buying and giving money for a long time for this brand.
+>
+> **11. The brand uses technology:** Since the brand uses technology, it is able to decrease expenses, grow up production, etc, everything needed to help it growing fast and well.
+>
+> **12. People that are engaged in the brand buy its stock options:** We call it 'Skin in the game', basically people that are leading the brand invests their money on it, what means they believe on the business and are really willing to make it to grow.
+>
+> **13. The brand are buying its own stock options:** When the brand are buying its own stock options, it is making to exist less of its own stock options around the world and so, making the stock option price more expensive (basically rewarding the people who buy it)
