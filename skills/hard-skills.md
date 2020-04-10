@@ -3,7 +3,7 @@ parent: Skills
 nav_order: 1
 ---
 
-# Technical Skills
+# Hard Skills
 
 ***Programming Languages***
 ```
