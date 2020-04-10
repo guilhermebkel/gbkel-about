@@ -98,6 +98,7 @@ AWS VPC
 ***Serverless***
 ```
 Serverless
+AWS Lambda
 ```
 
 ***Pub/Sub***
