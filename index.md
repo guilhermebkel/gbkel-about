@@ -4,4 +4,6 @@ nav_order: 1
 
 # Home
 
-Here you can find all info about me, my projects, skills, education, experiences and certifications. Basically everything about the life long road I'm taking in order to become the kinda developer I aspire to be.
+**Guilherme Mota** is a Problem Solver/Full-stack Software Developer with solid knowledge on Cloud Computing (AWS) and currently focused on the Javascript Ecosystem. On top of that, he is currently enrolled at an Electrical Engineering course and a Full-stack Software Developer position. Last but not least, he is way too much curious/passionate about programming, software architecture, complex systems and technologies in general.
+
+> "As a problem solver, I know there are lots of ways to solve a problem and I feel like my mission is to always use the one which better fits to the moment, being minded about the following requirements: scalability, readability, maintainability, user usability and business logic integrity."
