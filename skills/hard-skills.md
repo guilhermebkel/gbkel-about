@@ -93,6 +93,8 @@ AWS ElastiCache
 AWS SES
 AWS ES
 AWS VPC
+AWS DynamoDB
+AWS ES
 ```
 
 ***Serverless***
@@ -172,6 +174,8 @@ Domain Driven
 Serverless
 Monorepo
 Object Oriented
+Factory
+Repository
 Functional
 ```
 
