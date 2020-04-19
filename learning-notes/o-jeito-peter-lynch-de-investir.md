@@ -116,3 +116,13 @@ Below you can see the steps you can be based at in order to make a history about
 > **12. People that are engaged in the brand buy its stock options:** We call it 'Skin in the game', basically people that are leading the brand invests their money on it, what means they believe on the business and are really willing to make it to grow.
 >
 > **13. The brand are buying its own stock options:** When the brand are buying its own stock options, it is making to exist less of its own stock options around the world and so, making the stock option price more expensive (basically rewarding the people who buy it)
+
+5. And so check if the brand fits in some threats you need to avoid (or follow it as a simple warning that this brand can be harmful for you):
+> **1. People say this brand will be the next something:** Some people usually say that a brand will be the next brand that does something good. Ex: This brand will be the next McDonald's.
+>
+> **2. Brands that prioritize wrong stuffs:** Usually some brands prioritize acquiring other stuffs rather than buying new stock options and so on. The bad thing here is that they usually acquire bad stuffs.
+>
+> **3. The whispered brands:** These are the brands that are usually known by you when someone whisper its name to you like it is a really good brand that no one knows anything about it.
+>
+> **4. The brand with a single intermediate:** Usually that are brands that sell stuff to a single buyer, and it is not possible to know if this single buyer will stop buying it or not. So, try to avoid these ones.
+> **5. Brands with interesting names:** Some brands will be famous only by the name it has, so worry about them. 
