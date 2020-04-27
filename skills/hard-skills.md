@@ -96,6 +96,7 @@ AWS ES
 AWS VPC
 AWS DynamoDB
 AWS ES
+AWS WAF
 ```
 
 ***Serverless***
