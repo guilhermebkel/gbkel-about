@@ -54,6 +54,7 @@ MySQL
 PostgreSQL
 MongoDB
 Redis
+Elasticsearch
 ```
 
 ***Testing***
