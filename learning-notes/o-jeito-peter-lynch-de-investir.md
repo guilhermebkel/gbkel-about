@@ -125,4 +125,15 @@ Below you can see the steps you can be based at in order to make a history about
 > **3. The whispered brands:** These are the brands that are usually known by you when someone whisper its name to you like it is a really good brand that no one knows anything about it.
 >
 > **4. The brand with a single intermediate:** Usually that are brands that sell stuff to a single buyer, and it is not possible to know if this single buyer will stop buying it or not. So, try to avoid these ones.
+>
 > **5. Brands with interesting names:** Some brands will be famous only by the name it has, so worry about them. 
+
+6. Give a little look at a graphic of Stock Price x Profit
+> **1. If the stock price line is lower than profit price line, it is possible that the stock price is underrated:** You'll probably pay less for it, since it can get higher soon.
+> **2. If the stock price line is higher than profit price line, it is possible that the stock price is overrated:** You'll probably lose some money, since in can get slower soon.
+
+7. Now it is time to get some information about the brand's P/L
+> At first, P/L is basically the stock option price divided by its profits in the last year. Per example:
+> A brand with a stock option that costs $35 that has had a profit of $3,50 per stock option in the last 12 months has a P/L of 10, what means that you will have your invested money back in 10 years if the stock option price stay constant.
+> Usually the P/L is low for brands of fast growth and high for brands of slow growth. The ciclic ones are inserted between these two ones.
+> Besides, the P/L can change from a brand ecosystem to another. Last but not least, keep in mind that this can be tricky since some brands of fast growth can have a big P/L as well.
