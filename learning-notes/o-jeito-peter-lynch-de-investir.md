@@ -173,17 +173,17 @@ Below you can see the steps you can be based at in order to make a history about
 > - The La Quinta is a mix of real states that started its operations on Texas. The brand has grown a lot in other two regions by doing the same successful recipe, the profit has grown a lot in the last months. The real state ecosystem has a really slow growth but the La Quinta has found a good niche to go in before saturating on it.
 
 9. Another good questions to answer before buying a stock option:
-> How is this stock options classified? (Ex: fast growth)
-> How much they've grown in terms of profit?
-> How its P/L value looks like when compared to its historic values?
-> Why is it good to buy it now?
-> How its market looks like right now?
-> What about their profits?
-> What about their debts?
-> How they will finance its growth without selling stocks and cutting profits?
-> The stakeholders are buying the stock options?
-> How the graphic of Stock Option Price x Profits in the last 5 years looks like?
-> What about the dividends? Are they always paid?
-> How much stock options are owned by financial institutions?
+> - How is this stock options classified? (Ex: fast growth)
+> - How much they've grown in terms of profit?
+> - How its P/L value looks like when compared to its historic values?
+> - Why is it good to buy it now?
+> - How its market looks like right now?
+> - What about their profits?
+> - What about their debts?
+> - How they will finance its growth without selling stocks and cutting profits?
+> - The stakeholders are buying the stock options?
+> - How the graphic of Stock Option Price x Profits in the last 5 years looks like?
+> - What about the dividends? Are they always paid?
+> - How much stock options are owned by financial institutions?
 
 10. Now it is time to understand the stock option reports.
