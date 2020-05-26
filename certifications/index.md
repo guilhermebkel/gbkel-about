@@ -4,6 +4,9 @@ nav_order: 4
 
 # Certifications
 
+### Erick Wendel
+- Aplicações Serverless na AWS
+
 ### Udemy
 - Advanced Javascript Concepts
 - GraphQL: Criando APIs Profissionais e Flexíveis
