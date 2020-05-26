@@ -29,6 +29,7 @@ Angular 8
 Next
 jQuery
 Gatsby
+Nunjucks
 ```
 
 ***Back-end***
@@ -39,6 +40,7 @@ Adonis
 Spring
 Apollo
 GraphQL
+gRPC
 ```
 
 ***Git***
@@ -54,6 +56,10 @@ MySQL
 PostgreSQL
 MongoDB
 Redis
+Elasticsearch
+AWS DynamoDB
+AWS RDS Aurora
+LevelDB
 ```
 
 ***Testing***
@@ -95,6 +101,10 @@ AWS ES
 AWS VPC
 AWS DynamoDB
 AWS ES
+AWS WAF
+AWS API Gateway
+AWS DynamoDB
+AWS RDS Aurora
 ```
 
 ***Serverless***
@@ -177,6 +187,7 @@ Object Oriented
 Factory
 Repository
 Functional
+Microservice
 ```
 
 ***Queue***

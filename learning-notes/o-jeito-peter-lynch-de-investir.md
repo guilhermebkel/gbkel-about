@@ -125,4 +125,65 @@ Below you can see the steps you can be based at in order to make a history about
 > **3. The whispered brands:** These are the brands that are usually known by you when someone whisper its name to you like it is a really good brand that no one knows anything about it.
 >
 > **4. The brand with a single intermediate:** Usually that are brands that sell stuff to a single buyer, and it is not possible to know if this single buyer will stop buying it or not. So, try to avoid these ones.
+>
 > **5. Brands with interesting names:** Some brands will be famous only by the name it has, so worry about them. 
+
+6. Give a little look at a graphic of Stock Price x Profit
+> **1. If the stock price line is lower than profit price line, it is possible that the stock price is underrated:** You'll probably pay less for it, since it can get higher soon.
+>
+> **2. If the stock price line is higher than profit price line, it is possible that the stock price is overrated:** You'll probably lose some money, since in can get slower soon.
+
+7. Now it is time to get some information about the brand's P/L
+> At first, P/L is basically the stock option price divided by its profits in the last year. Per example:
+>
+> A brand with a stock option that costs $35 that has had a profit of $3,50 per stock option in the last 12 months has a P/L of 10, what means that you will have your invested money back in 10 years if the stock option price stay constant.
+>
+> Usually the P/L is low for brands of fast growth and high for brands of slow growth. The ciclic ones are inserted between these two ones.
+>
+> Besides, the P/L can change from a brand ecosystem to another. Last but not least, keep in mind that this can be tricky since some brands of fast growth can have a big P/L as well.
+
+8. Now we need learn as much as we can about what the brand is making in order to grow and prospect, even everything that is good for it.
+
+> Before being able to buy a stock option, it is recommended that you can tell in 2 minutes about what the brand need to make to succeed and what will be a treat for it. You need to do that in a way that even a child can understand what you're saying.
+>
+> Some important topics to talk about:
+>
+> 1. If you're trying to buy a slow brand growth, you're probably doing that to get some dividends, then it could look like that:
+> - Why am i buying that?
+> - This brand has grown its profits consecutively in the last 10 years and offers a great dividend, never stopped paying dividends during bad or good moments. It is a SasS and the new buying they're doing can really improve their growth.
+>
+> 2. If it is a cyclic brand it could look like that:
+> - What about the business, stock and prices?
+> - The market of this brand has been stuck for the last 3 years but this year it increased. I know it because the car selling increased a lot in the last 18 months, the brand closed 5 inefficient manufacturers, cut costs and the profit increased.
+>
+> 3. A brand with hidden acquiring could be like:
+> - What about the acquisitions and how much they cost?
+> - The stock option is sold for $8 but only the videogames costs around $4 per stock option and the houses $7, so I'm buying the rest of the brand for less $3. The brand has constant profits and there are no debts.
+>
+> 4. The brand in recover could look like:
+> - What are they doing to get better and is it working till now?
+> - The General Mills has done a great progress by changing her priority. She came from 11 manufactures to only 3. When selling Eddie Bouer, the General Mills started over doing what she is good at: Getting into the restaurant and foods ecosystem. They will launch a new product and their profit are increasing a lot.
+>
+> 5. The reliable brand:
+> - What is the P/L and if it grown a lot in the last months, what they did to make it?
+> - The Coca-Cola is sold for the most cheap price of its P/L graphic. Its stock options are stable for almost 2 years. They've sold half of its houses, the consume of Coca-Cola has increased about 30% in the last year. Because of that, they really can get better than everyone expect to.
+>
+> 6. Fast growth brand:
+> - Where and how will it grow fast as possible?
+> - The La Quinta is a mix of real states that started its operations on Texas. The brand has grown a lot in other two regions by doing the same successful recipe, the profit has grown a lot in the last months. The real state ecosystem has a really slow growth but the La Quinta has found a good niche to go in before saturating on it.
+
+9. Another good questions to answer before buying a stock option:
+> - How is this stock options classified? (Ex: fast growth)
+> - How much they've grown in terms of profit?
+> - How its P/L value looks like when compared to its historic values?
+> - Why is it good to buy it now?
+> - How its market looks like right now?
+> - What about their profits?
+> - What about their debts?
+> - How they will finance its growth without selling stocks and cutting profits?
+> - The stakeholders are buying the stock options?
+> - How the graphic of Stock Option Price x Profits in the last 5 years looks like?
+> - What about the dividends? Are they always paid?
+> - How much stock options are owned by financial institutions?
+
+10. Now it is time to understand the stock option reports.
