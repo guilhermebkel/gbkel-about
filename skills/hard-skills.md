@@ -174,6 +174,7 @@ Google Analytics
 ***Web Scrapping***
 ```
 Puppeteer.js
+Cheerio.js
 ```
 
 ***Software Architecture***
