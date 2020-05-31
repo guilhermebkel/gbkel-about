@@ -187,3 +187,31 @@ Below you can see the steps you can be based at in order to make a history about
 > - How much stock options are owned by financial institutions?
 
 10. Now it is time to understand the stock option reports.
+> Try to see if the brand is reaching thrive by comparing the following numbers:
+> - Current Assets (if increasing, it is good because the brand is being able to save money).
+> - Long-term Liabilities (if is decreasing while the above is increasing, it means the debt is decreasing at all).
+>
+> If you subtract the two numbers above you'll get the **Current Balance**, and if it is positive, it means that the brand is able to thrive even if it happens a tragedy).
+>
+> If the **Short-term debt** is lower than the current assets, we don't need to rely on it since the brand can quit it when needed.
+>
+> Give a look at the **Finance resume of the last 10 years**, if the brand is creating less stock options, it means it is buying its own stock options, that is another good stuff.
+>
+> If we divide the **Current Balance** by the **Stock Options Count** we'll get how much money the brand has in balance for each stock option.
+
+11. Then, we can give a look in some important numbers.
+> **1. The Selling Percentage:** Take a loot on how many percentage a brand product represents on its total selling percentage, in order to get insights about things that this product use from another brand that is good to invest in.
+>
+> **2. The P/L Relation:** Usually if per example a brand has a P/L of 15, you'd expect the brand grows by 15% per year. Then, if the P/L is lower than the percentage the brand is growing per year, it possibly means your making a good buy else, a bad one. A good calculation to do is: Get the growing percentage in long-term, add the percentage returned by dividends and divided all of it by the P/L. Ex: A brand that grows 12% per year, returns 3% by dividends per year and has a P/L of 10, has a calculated value of 3 (lower than 1 is bad, 1.5 is a good one, but we are trying to seek a 2 or more value).
+>
+> **3. The Balance Management:** Usually when you're buying a stock option, you get it by its price minus the price provided by **Current Balance** divided by the **Stock Options Count** number (it looks like a discount on the stock option price). Usually if you give a look in the profit given by another brands that helps the one you're trying o invest on, you'll recognize that you're getting more than a single brand when buying some stock options.
+>
+> **4. The Debt Factor:** **Debt x Current Balance** is a good number to take a look at. Usually a balance of **25% of debt** and **75% of current balance** represents something good.
+>
+> **5. The Dividends:** Usually when a brand pay dividends, it helps to not make the stock options price to decrease and represents the brand is thriving (these are good reasons). Usually the best dividend providers are the electricity and telephone ones. Last but not least, the best dividend providers are the ones with good history (they pay dividends even that are tragedies happening).
+>
+> **6. The Book Value:** Usually people buy stock options by the price provided on the home brokers, but, the most important thing to take a look at, is the **Real Price** of the stock options, buy looking at its **Passive Balance, Discount by Current Balance, Hidden Assets, etc**.
+>
+> **7. The Hidden Assets:** Some good brands usually has hidden assets, per example **Real States, Being the one able to do something, etc**, what represents a advantage on the stock option real price.
+>
+> **8. The Cash Flow:** The cash flow is the amount of money a brand makes with its own business. Generally it is good when that amount of money is greater than the one it looses to invest on your own to retrieve this amount of money.
