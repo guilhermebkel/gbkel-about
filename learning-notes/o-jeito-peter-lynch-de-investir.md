@@ -215,3 +215,9 @@ Below you can see the steps you can be based at in order to make a history about
 > **7. The Hidden Assets:** Some good brands usually has hidden assets, per example **Real States, Being the one able to do something, etc**, what represents a advantage on the stock option real price.
 >
 > **8. The Cash Flow:** The cash flow is the amount of money a brand makes with its own business. Generally it is good when that amount of money is greater than the one it looses to invest on your own to retrieve this amount of money.
+>
+> **9. The Stocks:** Generally in **market or manufacture**, if the stock is increasing by the time, it means that the brand is performing bad.
+>
+> **10. The Growth Rate:** Usually the good brands are the ones that grows its prices year by year without loosing clients.
+>
+> **11. The Outcome:** Usually the profit in the final of the report need to be subtracted by the taxes the brand pays, because a brand can have a profit of 12% but it have to pay 10% of tax, what means the real profit is 2%.
