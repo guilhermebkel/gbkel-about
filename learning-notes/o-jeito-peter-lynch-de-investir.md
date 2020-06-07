@@ -223,3 +223,38 @@ Below you can see the steps you can be based at in order to make a history about
 > **11. The Outcome:** Usually the profit in the final of the report need to be subtracted by the taxes the brand pays, because a brand can have a profit of 12% but it have to pay 10% of tax, what means the real profit is 2%.
 
 12. After you have the brand history done, it is important to you to give a look at it in the next months, in order to know if the history changed (improved for good or bad), in order to understand if you need to buy or sell your stock options for this brand.
+
+13. Some important points to understand when making a brand history:
+>
+> - For all kinda brands:
+> The P/L (if it is high or low for its ecosystem).
+> The percentage of financial institution participion for these brands (the lower the better).
+> If the stakeholders are buying the brand stock options and if the own brand is buying its own stock options (all of these ones are good aspects).
+> The profit growing and if the profit ocurrs constantly (it is not so important for brands with hidden assets).
+> If the brand has a strong patrimonial balance or not (debt factor).
+> Thr balance position (if a brand has $16 in balance for stock option, it will be really hard to get lower than that).
+>
+> - Slow Groth Brands:
+> Since you get these ones to get dividends, it is important to know if they were always paid and if they're increasing.
+> Understand how much percentage of profit goes to dividends (how lower it is, it means the brand has a protection to keep paying dividends even if it is with less money).
+>
+> - Reliable Brands:
+> They're the big brands that probably won't quit the market (the main question is the price, the P/L will explain if you're paying too much or not for its stock options).
+> Analyse the priorities that this brand is planning that can decrease its profits in the future.
+> Understand the growthung rate of the brand and try to know if it kept it in the last time.
+> If you're planning to keep this stock option for a life time, try to understand what this brand did in the difficult times.
+>
+> - Cyclic Brands:
+> Keep giving a look at the stocks and selling/buying relation. Besides, try to keep in touch with possible future competitors.
+> Anticipate a decreasing P/L relation while investing on these ones, since you better sell it when it is in the end of its cycle.
+> Try to know how the cycle works (like by 2 in 2 years, etc).
+>
+> - Fast Growthing Brands:
+> Try to understand if the product that will make the brand rich corresponds for a big amount of the business.
+> Analyse the profit growthing rate (the best are the ones between 20%-25%).
+> Try to know if the brand duplicated its growthing in more than one place (to understand if its growthing will really work).
+> Understand if the brand has a good place in the market to grow.
+> Try to know if it is sold by a P/L with same percentage of growing rate.
+> Analyse if the expansion speed increases.
+> Make sure a low amount of financial institution invest on that and less investors talk about it as well.
+
