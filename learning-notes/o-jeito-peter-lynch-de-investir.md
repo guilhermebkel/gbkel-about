@@ -233,7 +233,38 @@ Below you can see the steps you can be based at in order to make a history about
 > - The profit growing and if the profit ocurrs constantly (it is not so important for brands with hidden assets).
 > - If the brand has a strong patrimonial balance or not (debt factor).
 > - The balance position (if a brand has $16 in balance for stock option, it will be really hard to get lower than that).
->
+> - Understand the nature of the brand and the reasons to keep investing in that.
+> - When sorting out stock options by categories you'll be able to understand what to expect from them.
+> - Big brands has big variations and small ones, small variations.
+> - Be minded by the brand size if you're trying to get profit from a single product.
+> - Search for small profitable brands that proved they can duplicate its grow/idea.
+> - Brands with 50%-100% growing rate per year can be really tricky.
+> - Avoid brand from outstanding markets.
+> - Diversifications can become tricky priorities.
+> - Doubtful invests can be really tricky.
+> - It is better to loose the first brand movinentation to understand how its planning is going to be.
+> - The people from the brand can have incredible informations that can take really longer to get to investors.
+> - Sort out all tips people say about stock options even if it is a expert saying that.
+> - Invest in brands that looks despised, disgusting and simple.
+> - Brands of fast growing (20%-25%) in markets of no growing are the best ones.
+> - Try to search for brands with niche.
+> - When buying invaluable stock options, try to avoid the ones with high debts.
+> - Brands with no debts can no longer get down.
+> - Try to base your choosings being minded about the brand administration (it the person that is head, is making good for it).
+> - You can get a lot of money when a brand in recovering get recovered.
+> - Be really minded about P/L, because if a brand is overrated, you will no longer get money from it since its price will get down soon.
+> - Try to find a script to get in touch with the brand all long the months.
+> - Try to buy brands that buy its own stock options constantly.
+> - Study the historic of dividends a long the years and try to understand its outcomes on recessions.
+> - Look for brands with less or even no instituional investments.
+> - Try to look for brands with administrations that are there not only for its salary.
+> - If the stakeholders are buying the brand stock options, it is really good.
+> - Give at least 1 hour per week to look for good investments.
+> - Be patient.
+> - Don't buy the stock option based in the price it is sold, but more buy the real price it has.
+> - If you have doubts, wait for more time before taking an action.
+> - If you're buying a stock option, give it the time you would give in order to buy a new computer.
+> 
 > **2. Slow Groth Brands:**
 > - Since you get these ones to get dividends, it is important to know if they were always paid and if they're increasing.
 > - Understand how much percentage of profit goes to dividends (how lower it is, it means the brand has a protection to keep paying dividends even if it is with less money).
