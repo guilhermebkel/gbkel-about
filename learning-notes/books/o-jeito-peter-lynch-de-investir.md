@@ -1,5 +1,5 @@
 ---
-parent: Learning Notes
+parent: Books
 nav_order: 3
 ---
 
