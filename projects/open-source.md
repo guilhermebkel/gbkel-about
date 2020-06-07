@@ -1,5 +1,6 @@
 ---
-nav_order: 7
+parent: Projects
+nav_order: 2
 ---
 
 # Open Source Projects
