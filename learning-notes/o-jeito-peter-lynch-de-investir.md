@@ -221,3 +221,83 @@ Below you can see the steps you can be based at in order to make a history about
 > **10. The Growth Rate:** Usually the good brands are the ones that grows its prices year by year without loosing clients.
 >
 > **11. The Outcome:** Usually the profit in the final of the report need to be subtracted by the taxes the brand pays, because a brand can have a profit of 12% but it have to pay 10% of tax, what means the real profit is 2%.
+
+12. After you have the brand history done, it is important to you to give a look at it in the next months, in order to know if the history changed (improved for good or bad), in order to understand if you need to buy or sell your stock options for this brand.
+
+13. Some important points to understand when making a brand history:
+>
+> **1. For all kinda brands:**
+> - The P/L (if it is high or low for its ecosystem).
+> - The percentage of financial institution participion for these brands (the lower the better).
+> - If the stakeholders are buying the brand stock options and if the own brand is buying its own stock options (all of these ones are good aspects).
+> - The profit growing and if the profit ocurrs constantly (it is not so important for brands with hidden assets).
+> - If the brand has a strong patrimonial balance or not (debt factor).
+> - The balance position (if a brand has $16 in balance for stock option, it will be really hard to get lower than that).
+> - Understand the nature of the brand and the reasons to keep investing in that.
+> - When sorting out stock options by categories you'll be able to understand what to expect from them.
+> - Big brands has big variations and small ones, small variations.
+> - Be minded by the brand size if you're trying to get profit from a single product.
+> - Search for small profitable brands that proved they can duplicate its grow/idea.
+> - Brands with 50%-100% growing rate per year can be really tricky.
+> - Avoid brand from outstanding markets.
+> - Diversifications can become tricky priorities.
+> - Doubtful invests can be really tricky.
+> - It is better to loose the first brand movinentation to understand how its planning is going to be.
+> - The people from the brand can have incredible informations that can take really longer to get to investors.
+> - Sort out all tips people say about stock options even if it is a expert saying that.
+> - Invest in brands that looks despised, disgusting and simple.
+> - Brands of fast growing (20%-25%) in markets of no growing are the best ones.
+> - Try to search for brands with niche.
+> - When buying invaluable stock options, try to avoid the ones with high debts.
+> - Brands with no debts can no longer get down.
+> - Try to base your choosings being minded about the brand administration (it the person that is head, is making good for it).
+> - You can get a lot of money when a brand in recovering get recovered.
+> - Be really minded about P/L, because if a brand is overrated, you will no longer get money from it since its price will get down soon.
+> - Try to find a script to get in touch with the brand all long the months.
+> - Try to buy brands that buy its own stock options constantly.
+> - Study the historic of dividends a long the years and try to understand its outcomes on recessions.
+> - Look for brands with less or even no instituional investments.
+> - Try to look for brands with administrations that are there not only for its salary.
+> - If the stakeholders are buying the brand stock options, it is really good.
+> - Give at least 1 hour per week to look for good investments.
+> - Be patient.
+> - Don't buy the stock option based in the price it is sold, but more buy the real price it has.
+> - If you have doubts, wait for more time before taking an action.
+> - If you're buying a stock option, give it the time you would give in order to buy a new computer.
+> 
+> **2. Slow Groth Brands:**
+> - Since you get these ones to get dividends, it is important to know if they were always paid and if they're increasing.
+> - Understand how much percentage of profit goes to dividends (how lower it is, it means the brand has a protection to keep paying dividends even if it is with less money).
+>
+> **3. Reliable Brands:**
+> - They're the big brands that probably won't quit the market (the main question is the price, the P/L will explain if you're paying too much or not for its stock options).
+> - Analyse the priorities that this brand is planning that can decrease its profits in the future.
+> - Understand the growthung rate of the brand and try to know if it kept it in the last time.
+> - If you're planning to keep this stock option for a life time, try to understand what this brand did in the difficult times.
+>
+> **4. Cyclic Brands:**
+> - Keep giving a look at the stocks and selling/buying relation. Besides, try to keep in touch with possible future competitors.
+> - Anticipate a decreasing P/L relation while investing on these ones, since you better sell it when it is in the end of its cycle.
+> - Try to know how the cycle works (like by 2 in 2 years, etc).
+>
+> **5. Fast Growthing Brands:**
+> - Try to understand if the product that will make the brand rich corresponds for a big amount of the business.
+> - Analyse the profit growthing rate (the best are the ones between 20%-25%).
+> - Try to know if the brand duplicated its growthing in more than one place (to understand if its growthing will really work).
+> - Understand if the brand has a good place in the market to grow.
+> - Try to know if it is sold by a P/L with same percentage of growing rate.
+> - Analyse if the expansion speed increases.
+> - Make sure a low amount of financial institution invest on that and less investors talk about it as well.
+>
+> **6. Recovering Brands:**
+> - The brand can advance even with bad of credits? How much it has in balance? How much in debts? How the balance is structures and how much time the brand can live with debts?
+> - If it is in process of failure, how much will rest for its investors?
+> - How will this brand overcome this moment?
+> - The business is really recovering?
+> - The costs are being cut?
+>
+> **7. Hidden Assets Brands:**
+> - How much costs the assets? Are they hidden?
+> - How much debt we can make minus its assets price?
+> - The brand is acquiring more debts and making its assets less valuables?
+> - Is there any big investor that can help stakeholders to make good from the hidden assets?
