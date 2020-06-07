@@ -221,3 +221,5 @@ Below you can see the steps you can be based at in order to make a history about
 > **10. The Growth Rate:** Usually the good brands are the ones that grows its prices year by year without loosing clients.
 >
 > **11. The Outcome:** Usually the profit in the final of the report need to be subtracted by the taxes the brand pays, because a brand can have a profit of 12% but it have to pay 10% of tax, what means the real profit is 2%.
+
+12. After you have the brand history done, it is important to you to give a look at it in the next months, in order to know if the history changed (improved for good or bad), in order to understand if you need to buy or sell your stock options for this brand.
