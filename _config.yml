@@ -6,7 +6,6 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-admin
 relative_links:
   collections: true
   enabled: true
