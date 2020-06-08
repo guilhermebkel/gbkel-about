@@ -5,3 +5,5 @@ has_children: true
 ---
 
 # Books
+
+Some notes I've taken from books I've read.
