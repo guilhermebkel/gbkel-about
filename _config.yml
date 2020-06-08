@@ -1,4 +1,4 @@
-description: "All info about me, my projects, skills, education, experiences and certifications. Basically everything about the life long road I'm taking in order to become the kinda developer I aspire to be."
+description: "All info about me, my projects, skills, education, experiences and certifications."
 google_analytics: UA-140879800-1
 plugins:
   - jekyll-relative-links
@@ -11,7 +11,7 @@ relative_links:
   enabled: true
 # theme: jekyll-theme-hacker
 remote_theme: pmarsceill/just-the-docs
-search_enabled: false
+search_enabled: true
 aux_links:
   "Life Long Road on GitHub":
     - "//github.com/guilhermebkel/life-long-road"
