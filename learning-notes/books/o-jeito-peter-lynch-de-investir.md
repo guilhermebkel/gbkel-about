@@ -1,5 +1,6 @@
 ---
 parent: Books
+grand_parent: Learning Notes
 nav_order: 3
 ---
 
