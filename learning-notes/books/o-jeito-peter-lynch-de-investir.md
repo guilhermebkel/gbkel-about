@@ -302,3 +302,41 @@ Below you can see the steps you can be based at in order to make a history about
 > - How much debt we can make minus its assets price?
 > - The brand is acquiring more debts and making its assets less valuables?
 > - Is there any big investor that can help stakeholders to make good from the hidden assets?
+
+## When to sell a stock option
+
+1. Slow growth brands:
+- The company lost participation on the market for two years in a row and is hiring another market agency.
+- No new product is developed and the brand is not investing in development anymore.
+- The brand made two acquisitions that does not make any sense for it.
+- The brand paid so much for a new acquisitions that created bad debts intead of profits.
+- The stock option price is cheap but the dividends are not too much.
+
+2. Reliable brand:
+- The new products on the market have not got any profit around it.
+- Its P/L is 15 when the P/L of other brands in the same ecosystem is around 10.
+- No stakeholder (executive) bought any stock option of this brand in the last year.
+- A big part of the company is responsible for 25% of the profit and is vulnerable to bad things.
+- The growth rate is decreasing, even if the brand kept profits and decreased debts.
+
+3. Cyclic brands:
+- Its main product demand is decreasing.
+- The brand spent lot of money to make new brands instead of improving the old ones.
+- The brand tried to cut costs but even doing that is not able to challenge other brands.
+- The stock is increasing.
+
+4. Fast growth brands:
+- Some selling of some market are 3% lower than in the last 3 months.
+- The outcome of the new brands look shitty.
+- The P/L is around 30 and its profit rate is around 15%-20%.
+
+5. Recovering brands:
+- The debts was decreasing but now it has increased so much.
+- The stock is increasing more than two times than the selling.
+- The P/L looks really strange.
+- The strongest part of the brand is responsible for selling 50% to a single client.
+
+6. Hidden assets:
+- The stock options are being already sold by a lower price and the brand is planning to emit more stock options.
+- The part of the brand supposed to sell $20 millions sold around $12 millions.
+- The institutional participation in the brand increased from 25% to 60%.
