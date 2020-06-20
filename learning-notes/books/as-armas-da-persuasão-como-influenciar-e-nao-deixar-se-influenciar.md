@@ -10,6 +10,9 @@ nav_order: 1
 	<img width="auto" height="200px" src="../../assets/book-covers/as-armas-da-persuasao.jpg">
 </p>
 
+## Summary
+This book shows the moments we are way too much influenced and tips to how to overcome it.
+
 ## Influential Tools
 **1. Click, zum:** They are the ones fixed inside our habits. They're basically a start action that trigger a common response.
 
