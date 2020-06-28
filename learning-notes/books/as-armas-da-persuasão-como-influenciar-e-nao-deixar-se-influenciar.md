@@ -28,3 +28,11 @@ So, we can say it is a response (not minded) given by an input.
 Ex:
 - Your leader said you need to do 'A' and you feel like he meant 'B', but you don't try to say it to him because he's the leader.
 - You buy something expensive because you assume that it is expensive because it is good.
+
+## The Reciprocity
+
+It is a tool that basically means if you give a person some favor that it didn't ask for, the person automatically owns you another favor (that you can customize by your necessity). It can work the most times because our civilization has grown with this habit and the idea that a favor need to be given back to who gave you first.
+
+Ex:
+- I give you some random favor that impacts you for good.
+- I ask you for something that can be done following the level of the favor I gave you.
