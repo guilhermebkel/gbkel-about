@@ -28,3 +28,13 @@ So, we can say it is a response (not minded) given by an input.
 Ex:
 - Your leader said you need to do 'A' and you feel like he meant 'B', but you don't try to say it to him because he's the leader.
 - You buy something expensive because you assume that it is expensive because it is good.
+
+## Reciprocity
+Usually we can be driven by the reciprocity influence, since our society usually tag not reciprocal people as bad ones.
+
+**1. Reciprocal concession:** When someone tries to give us something and we refuse it, if this person asks for something after, we're commonly driven to give something back since we refused the initial concession.
+
+Ex:
+- A little guy asks you to buy a cine ticket for $5 dollar bills and you refuse it.
+- So he says "Well, if you're not going to buy this ticket, what about some chocolate? It will costs you $1".
+- Then you buy the chocolate.
