@@ -100,7 +100,6 @@ AWS SES
 AWS ES
 AWS VPC
 AWS DynamoDB
-AWS ES
 AWS WAF
 AWS API Gateway
 AWS DynamoDB
@@ -151,6 +150,13 @@ TravisCI
 Git Actions
 ```
 
+***Workflow***
+```
+Husky
+Lint Staged
+Git Commit Linter
+```
+
 ***PasS***
 ```
 Captain Rover
@@ -189,6 +195,8 @@ Factory
 Repository
 Functional
 Microservice
+Dependency Injection
+Dependency Inversion
 ```
 
 ***Queue***
@@ -206,6 +214,11 @@ Nginx
 ```
 Ant Design
 Material UI
+```
+
+***Template Engine***
+```
+Nunjucks
 ```
 
 ***SSL Certificate***
