@@ -8,6 +8,7 @@ nav_order: 4
 - [Aplicações Serverless na AWS](./ew.it/Erick%20Wendel%20-%20Aplicações%20Serverless%20na%20AWS.pdf)
 
 ### Udemy
+- [NodeJs, Typescript, TDD, Clean Architecture e SOLID](./udemy/Udemy%20-%20NodeJs,%20Typescript,%20TDD,%20Clean%20Architecture%20e%20SOLID.pdf)
 - [Advanced Javascript Concepts](./udemy/Udemy%20-%20Advanced%20Javascript%20Concepts.pdf)
 - [GraphQL: Criando APIs Profissionais e Flexíveis](./udemy/Udemy%20-%20GraphQL:%20Criando%20APIs%20Profissionais%20e%20Flexíveis.pdf)
 - [Kubernetes Hands-On - Deploy Microservices to the AWS Cloud](./udemy/Udemy%20-%20Kubernetes%20Hands-On%20-%20Deploy%20Microservices%20to%20the%20AWS%20Cloud.pdf)
