@@ -5,6 +5,8 @@ nav_order: 1
 
 # Courses
 
+- [Regex](https://github.com/guilhermebkel/regex-study)
+
 - [Clean Code](https://github.com/guilhermebkel/clean-node)
 
 - [Advanced Javascript Concepts](https://github.com/guilhermebkel/advanced-javascript-concepts)
