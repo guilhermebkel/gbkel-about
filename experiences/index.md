@@ -6,7 +6,19 @@ nav_order: 3
 
 <img src="../assets/experiences/picsize.jpg" align="left" width="120">
 
-**[ 2019/12 - Current ]** [PICSIZE](https://picsize.com.br) ``(Full-stack Developer)``
+**[ 2020/08 - Current ]** [PICSIZE](https://picsize.com.br) ``(Tech Lead)``
+
+In august of 2020, after completing almost 8 months of work as a developer, I've got invited to get a new position.
+
+At this new position, I helped them and learned about `Software Architecture, Code Review`.
+
+On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code`.
+
+<br />
+
+<img src="../assets/experiences/picsize.jpg" align="left" width="120">
+
+**[ 2019/12 - 2020/08 ]** [PICSIZE](https://picsize.com.br) ``(Full-stack Developer)``
 
 In december of 2019, after completing almost 6 months of internship, I've got invited to get a new software developer position.
 
