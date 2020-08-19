@@ -62,6 +62,14 @@ AWS RDS Aurora
 LevelDB
 ```
 
+***ORM***
+```
+Sequelize
+Knex
+Typeorm
+Mongoose
+```
+
 ***Testing***
 ```
 Mocha
@@ -104,6 +112,13 @@ AWS WAF
 AWS API Gateway
 AWS DynamoDB
 AWS RDS Aurora
+```
+
+***Google Cloud***
+```
+Google Compute Engine
+VPC
+Firewall
 ```
 
 ***Serverless***
