@@ -23,6 +23,8 @@ HTML5
 CSS3
 Sass
 React
+React Hooks
+React Context
 Redux
 Styled Components
 Angular 8
