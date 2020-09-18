@@ -10,9 +10,9 @@ nav_order: 3
 
 In august of 2020, after completing almost 8 months of work as a developer, I've got invited to get a new position.
 
-At this new position, I helped them and learned about `Software Architecture, Code Review`.
+At this new position, I helped them and learned about `Software Architecture, Code Review, Integration, ECS, Github Actions, Certbot, Nginx, Dealing with other department people`.
 
-On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code`.
+On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code, created a white label app, helped taking software architectural decisions`.
 
 <br />
 
