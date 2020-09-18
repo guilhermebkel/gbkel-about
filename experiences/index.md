@@ -12,7 +12,7 @@ In august of 2020, after completing almost 8 months of work as a developer, I've
 
 At this new position, I helped them and learned about `Software Architecture, Code Review, Integration, ECS, Github Actions, Certbot, Nginx, Dealing with other department people`.
 
-On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code, created a white label app, helped taking software architectural decisions`.
+On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code, made a white label app, helped taking software architectural decisions`.
 
 <br />
 
