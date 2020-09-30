@@ -114,6 +114,7 @@ AWS WAF
 AWS API Gateway
 AWS DynamoDB
 AWS RDS Aurora
+AWS ECR
 ```
 
 ***Google Cloud***
