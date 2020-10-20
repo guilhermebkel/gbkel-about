@@ -13,8 +13,8 @@ relative_links:
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
 aux_links:
-  "Life Long Road on GitHub":
-    - "//github.com/guilhermebkel/life-long-road"
+  "gbkel-about on GitHub":
+    - "//github.com/guilhermebkel/gbkel-about"
 ga_tracking: UA-140879800-1
 exclude:
   - README.md
