@@ -1,5 +1,20 @@
-## gbkel-about
+<p align="center">
+	<img src="./favicon.ico" width="150" alt="icon example" />
+</p>	
+
+<h3 align="center">
+  All info about me 🔥
+</h3>
+
+<p align="center">
+	<a href="https://about.guilherr.me">Open Website</a>
+</p>
+
+## 📌 Overview
 
 All info about me, my projects, skills, education, experiences and certifications. Basically everything about the life long road I'm taking in order to become the kinda developer I aspire to be.
 
-The website is available on [https://about.guilherr.me](https://about.guilherr.me), backed by **Github Pages**, **Jekyll** and **Just the docs jekyll theme**.
+## 🔧 Technologies
+
+- Github Pages
+- Jekyll
