@@ -28,3 +28,8 @@ nav_order: 6
 
 - **Error:** After getting into a lead position, I kept doing work thinking only on myself (it was expected since I worked alone for a long time on the organization)
 - **Solution:** Now at a lead position, I try to to impact positively all the team (in a scalable way, per example)
+
+---
+
+- **Error:** After getting into a lead position, I had to delegate a task but I did a hard one and had to get part of it to get it solved.
+- **Solution:** Now I'm aware that I need to know more about the people I want to delegate but, even if I delegate something harder, I need to give resources/opinions to help getting the problem solved without taking full part of it.
