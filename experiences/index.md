@@ -10,7 +10,7 @@ nav_order: 3
 
 In august of 2020, after completing almost 8 months of work as a developer, I've got invited to get a new position.
 
-At this new position, I helped them and learned about `Software Architecture, Code Review, Integration, ECS, Github Actions, Certbot, Nginx, Dealing with other department people, Talking to people, UX, EC2, ElasticSearch, Unit Tests, Integration Tests, Teaching`.
+At this new position, I helped them and learned about `Software Architecture, Database Architecture, Code Review, Integration, ECS, Github Actions, Certbot, Nginx, Dealing with other department people, Talking to people, UX, EC2, ElasticSearch, Unit Tests, Integration Tests, Teaching`.
 
 On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code, made a story (like instagram) creator white label app, helped taking software architectural decisions, created architectural templates, created a metrics system, helped solving an instance configuration mistake that was overloading all the platform processes/getting the platform down, helped architecturing tests implementation, taught other developers some stuffs I have experienced before`.
 
@@ -22,7 +22,7 @@ On top of that, it is important to know that I've `helped teaching new coworkers
 
 In december of 2019, after completing almost 6 months of internship, I've got invited to get a new software developer position.
 
-At this new position, I helped them and learned about `Software Project Management, Cloud Infrastructure, Software Development, Software Architecture, Quality Assurance, Mentoring, ElasticSearch, LUA, Lightroom Plugins, Nunjucks, Server Side Rendering`.
+At this new position, I helped them and learned about `Software Project Management, Database Architecture, Cloud Infrastructure, Software Development, Software Architecture, Quality Assurance, Mentoring, ElasticSearch, LUA, Lightroom Plugins, Nunjucks, Server Side Rendering`.
 
 On top of that, it is important to know that I've `created a queue system for picture uploads on front-end with retry and fallback delay features, solved a cloud infrastructure problem that was getting our upload system into lot of failures, made a lightroom plugin to integrate the adobe lightroom with our core application, took part of project requirements decision, mentored interns and stakeholders, headed code quality assurance with code reviewing and code refactoring, made a checkout page/application, made a compression file system to work with big sized files via serverless, helped decreasing infrastructure expenses, took part of infrastructure/technologies decision, made a platform for website creation`.
 
