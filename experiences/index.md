@@ -10,9 +10,9 @@ nav_order: 3
 
 In august of 2020, after completing almost 8 months of work as a developer, I've got invited to get a new position.
 
-At this new position, I helped them and learned about `Software Architecture, Database Architecture, Code Review, Integration, ECS, Github Actions, Certbot, Nginx, Dealing with other department people, Talking to people, UX, EC2, ElasticSearch, Unit Tests, Integration Tests, Teaching`.
+At this new position, I helped them and learned about `Software Architecture, Database Architecture, Code Review, Integration, ECS, Github Actions, Certbot, Nginx, Dealing with other department people, Talking to people, UX, EC2, ElasticSearch, Unit Tests, Integration Tests, Teaching, Data Analysis, AWS Costs`.
 
-On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code, made a story (like instagram) creator white label app, helped taking software architectural decisions, created architectural templates, created a metrics system, helped solving an instance configuration mistake that was overloading all the platform processes/getting the platform down, helped architecturing tests implementation, taught other developers some stuffs I have experienced before`.
+On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code, made a story (like instagram) creator white label app, helped taking software architectural decisions, created architectural templates, created a metrics system, helped solving an instance configuration mistake that was overloading all the platform processes/getting the platform down, helped architecturing tests implementation, taught other developers some stuffs I have experienced before, helped finding and decreasing possible cloud unnecessary costs`.
 
 <br />
 
