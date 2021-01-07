@@ -10,9 +10,9 @@ nav_order: 3
 
 In august of 2020, after completing almost 8 months of work as a developer, I've got invited to get a new position.
 
-At this new position, I helped them and learned about `Software Architecture, Code Review, Integration, ECS, Github Actions, Certbot, Nginx, Dealing with other department people, Talking to people, UX`.
+At this new position, I helped them and learned about `Software Architecture, Code Review, Integration, ECS, Github Actions, Certbot, Nginx, Dealing with other department people, Talking to people, UX, EC2, ElasticSearch, Unit Tests, Integration Tests, Teaching`.
 
-On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code, made a story (like instagram) creator white label app, helped taking software architectural decisions, created architectural templates`.
+On top of that, it is important to know that I've `helped teaching new coworkers, reviewed lots of code, made a story (like instagram) creator white label app, helped taking software architectural decisions, created architectural templates, created a metrics system, helped solving an instance configuration mistake that was overloading all the platform processes/getting the platform down, helped architecturing tests implementation, taught other developers a lot of stuffs I have experienced before`.
 
 <br />
 
@@ -36,7 +36,7 @@ That's a startup which has solutions for the photographer job flow, since the mo
 
 Even as a simple Intern, I was able to help them while learning from aws cloud architecture to software development in general, so I got in touch a lot with `AWS EC2, AWS S3, AWS SQS, AWS ElastiCache, AWS Lambda, AWS RDS, AWS CloudFront, GC Compute Engine, Redis, React, Redux, NodeJS, Styled Components, PostgreSQL, MongoDB, Grafana, MVC Architecture, Serverless Architecture and Event Driven Architecture`.
 
-Besides, I had great realizations there, like, `refactored its landing page, created a distributed information system based on Redis, solved a bug that was making them lose clients everyday, found and helped solving an architecture bug that kept all the platform offline for almost 4 entire days, created the event oriented microservices system, created a background processing application to work on side jobs such as mail sending and pictures processing, made a custom react hook for data validation/sanitization with help of back-end to improve user feedback, created a log system for some background processing jobs and picture uploads, made some data reports and headed a project to refactor all the platform back-end/front-end from their client to their api and background processing app while keeping in touch with senior developers`.
+Besides, I had great realizations there, like, `refactored its landing page, created a distributed information system based on Redis, solved a bug that was making them lose clients everyday, found and helped solving a heavy database query that kept all the platform offline for almost 4 entire days, created a event oriented system, created a background processing application to work on side jobs such as mail sending and pictures processing, made a custom react hook for data validation/sanitization with help of back-end to improve user feedback, created a log system for some background processing jobs and picture uploads, made some data reports and headed a project to refactor all the platform back-end/front-end from their client to their api and background processing app while keeping in touch with senior developers`.
 
 <br />
 
