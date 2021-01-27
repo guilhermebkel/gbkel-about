@@ -15,7 +15,7 @@ nav_order: 6
 ---
 
 - **Error:** Needed to be a mentor to an intern but micromanaged him a lot.
-- **Solution:** Started giving more space and realiability for the stakeholder, trying to show the way I'd usually do some task as a way and not the only correct way.
+- **Solution:** Started giving more space and reliability for the stakeholder, trying to show the way I'd usually do some task as a way and not the only correct way.
 
 ---
 
