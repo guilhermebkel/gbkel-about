@@ -38,3 +38,8 @@ nav_order: 6
 
 - **Error:** Almost gave source code access for a person outside the organization just in order to test some integration.
 - **Solution:** In case other organizations need to make integration tests with our platform, we only need to create a QA Environment to help them testing the integration, without getting in touch with source code.
+
+---
+
+- **Error:** I didn't walk the talk when I gave support to a dev to create a feature (usually I add a feature with a feature flag and after some production tests I deploy it to all customers), so the feature was deployed with an error on a core part of the system.
+- **Solution:** It is important to recommend the good things we do, since it can help a lot of people around us.
