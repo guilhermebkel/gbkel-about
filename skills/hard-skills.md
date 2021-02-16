@@ -112,9 +112,12 @@ AWS VPC
 AWS DynamoDB
 AWS WAF
 AWS API Gateway
-AWS DynamoDB
+AWS DocumentDB
 AWS RDS Aurora
 AWS ECR
+AWS EKS
+AWS IAM
+AWS ECS
 ```
 
 ***Google Cloud***
@@ -146,6 +149,7 @@ WebSocket
 ***Container Orchestration***
 ```
 Kubernetes
+Rancher
 ```
 
 ***Application Containerization***
