@@ -19,5 +19,4 @@ ga_tracking: UA-140879800-1
 exclude:
   - README.md
 footer_content: "A lot of info about <a href=\"https://github.com/guilhermebkel\">Guilherme Mota Bromonschenkel Lima.</a>"
-search_enabled: true
 color_scheme: dark
