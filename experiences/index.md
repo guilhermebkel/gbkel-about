@@ -14,6 +14,8 @@ At this new position, I helped them and learned about `Kubernetes, Rancher, EKS,
 
 On top of that, it is important to know that I've `helped creating an attendance platform integrated with social medias, reviewed code, architecture softwares, contribute with feedback about other devs`.
 
+<br />
+
 <img src="../assets/experiences/picsize.jpg" align="left" width="120">
 
 **[ 2020/08 - 2021/03 ]** [PICSIZE](https://picsize.com.br) ``(Tech Lead)``
