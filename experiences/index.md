@@ -10,7 +10,7 @@ nav_order: 3
 
 In March of 2021, after a company merge, I started working at Bume as a Tech Lead.
 
-At this new position, I helped them and learned about `Kubernetes, Rancher, EKS, Puppeteer, Microservices`.
+At this new position, I helped them and learned about `Kubernetes, Rancher, EKS, Puppeteer, Microservices, Socket`.
 
 On top of that, it is important to know that I've `helped creating an attendance platform integrated with social medias, reviewed code, architecture softwares, contribute with feedback about other devs`.
 
