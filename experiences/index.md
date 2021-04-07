@@ -4,9 +4,19 @@ nav_order: 3
 
 # Experiences
 
+<img src="../assets/experiences/bume.png" align="left" width="120">
+
+**[ 2021/03 - Current ]** [Bume](https://bume.com) ``(Tech Lead)``
+
+In March of 2021, after a company merge, I started working at Bume as a Tech Lead.
+
+At this new position, I helped them and learned about `Kubernetes, Rancher, EKS, Puppeteer, Microservices`.
+
+On top of that, it is important to know that I've `helped creating an attendance platform integrated with social medias, reviewed code, architecture softwares, contribute with feedback about other devs`.
+
 <img src="../assets/experiences/picsize.jpg" align="left" width="120">
 
-**[ 2020/08 - Current ]** [PICSIZE](https://picsize.com.br) ``(Tech Lead)``
+**[ 2020/08 - 2021/03 ]** [PICSIZE](https://picsize.com.br) ``(Tech Lead)``
 
 In august of 2020, after completing almost 8 months of work as a developer, I've got invited to get a new position.
 
