@@ -241,6 +241,7 @@ Material UI
 ***Template Engine***
 ```
 Nunjucks
+Liquid
 ```
 
 ***SSL Certificate***
