@@ -46,10 +46,10 @@ nav_order: 6
 
 ---
 
-- **Error:** Did not give feedback for bad behavior since I was worried about what the person would think about it.
+- **Error:** I did not give feedback for bad behavior since I was worried about what the person would think about it.
 - **Solution:** I got the idea that all kind of feedback need to be given, it does not matter if it is a good or a bad one, it needs to be given. So the most important thing is to understand how to give it (usually as soon as possible and in a way that you do not make any offense to the person in case it is a feedback for bad behavior) since you must not avoid doing that.
 
 ---
 
-- **Error:** Did not give the change for the new developer to solve the problems that were assigned to him (I was like a parent trying to do all the stuffs for its children).
+- **Error:** I did not give the opportunity for the new developer to solve the problems that were assigned to him (I was like a parent trying to do all the stuffs for its children).
 - **Solution:** Now I understand that letting the developer solve the problem that is assigned to him creates an improved sense of responsibility and at the same time helps improving its skills. So in case I see that a developer is getting a lot of time stuck at a problem, I do not solve it for him, instead I give some tips and some ideas to help him doing that.
