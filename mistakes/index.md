@@ -52,4 +52,4 @@ nav_order: 6
 ---
 
 - **Error:** I did not give the opportunity for the new developer to solve the problems that were assigned to him (I was like a parent trying to do all the stuffs for its children).
-- **Solution:** Now I understand that letting the developer solve the problem that is assigned to him creates an improved sense of responsibility and at the same time helps improving its skills. So in case I see that a developer is getting a lot of time stuck at a problem, I do not solve it for him, instead I give some tips and some ideas to help him doing that.
+- **Solution:** Now I understand that letting the developer solve the problem that is assigned to him creates an improved sense of responsibility and at the same time helps improving its skills. So in case I feel that a developer is getting a lot of time stuck at a problem, I do not solve it for him, instead I give some tips and some ideas to help him doing that.
