@@ -10,7 +10,7 @@ nav_order: 3
 
 In March of 2021, after a company merge, I started working at Bume as a Tech Lead.
 
-At this new position, I helped them and learned about `Kubernetes, Rancher, EKS, Puppeteer, Microservices, Socket, Software Scaling, Redis, Queues, Messaging System, Chatbot, Mass Messages, Kibana, Logging, Open Source, Tech Articles, React Componentization, React Global State Management, React Atomic State Update`.
+At this new position, I helped them and learned about `Kubernetes, Rancher, EKS, Puppeteer, Microservices, Socket, Software Scaling, Redis, Queues, Messaging System, Chatbot, Mass Messages, Kibana, Logging, Open Source, Tech Articles, React Componentization, React Global State Management, React Atomic State Update, Pair Programming`.
 
 On top of that, it is important to know that I've `helped creating an attendance platform integrated with social medias, reviewing code, architecturing softwares, contributing with feedback about other developers, creating a microservice distributed system of high disponibility/scalability/availability integrated with whatsapp platform, architecturing an end to end chat bot application, creating a system log for microservice, creating a cluster manager service for slave microservices with socket, sharing knowledge by writing article, creating a global state management on react with atomic update/re-render for a chat messaging application, managing developer service credentials on aws, helping other developers to improve themselves`.
 
