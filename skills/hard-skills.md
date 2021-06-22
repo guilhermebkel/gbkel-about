@@ -60,6 +60,7 @@ MongoDB
 Redis
 Elasticsearch
 AWS DynamoDB
+AWS DocumentDB
 AWS RDS Aurora
 LevelDB
 ```
@@ -104,6 +105,7 @@ AWS SQS
 AWS S3
 AWS EC2
 AWS CloudFront
+AWS CloudWatch
 AWS RDS
 AWS ElastiCache
 AWS SES
@@ -118,6 +120,7 @@ AWS ECR
 AWS EKS
 AWS IAM
 AWS ECS
+AWS Cost Explorer
 ```
 
 ***Google Cloud***
@@ -197,6 +200,7 @@ Zeit
 Grafana
 Sentry
 Google Analytics
+Kibana
 ```
 
 ***Web Scrapping***
@@ -219,6 +223,8 @@ Functional
 Microservice
 Dependency Injection
 Dependency Inversion
+External Integration
+Distributed System
 ```
 
 ***Queue***
