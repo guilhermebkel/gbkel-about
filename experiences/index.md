@@ -4,11 +4,23 @@ nav_order: 3
 
 # Experiences
 
+<img src="../assets/experiences/letalk.jpg" align="left" width="120">
+
+**[ 2021/07 - Current ]** [Letalk](https://letalk.com.br) ``(Tech Lead)``
+
+In July of 2021, I started working at Letalk as a Tech Lead.
+
+At this new position, I helped them and learned about `Landing Page, Webflow, Notification System`.
+
+On top of that, it is important to know that I've `helped taking software design/architecture decisions on a notifications system integrated with external pltaforms`.
+
+<br />
+
 <img src="../assets/experiences/bume.png" align="left" width="120">
 
-**[ 2021/03 - Current ]** [Bume](https://bume.com) ``(Tech Lead)``
+**[ 2021/03 - 2021/07 ]** [Bume](https://bume.com) ``(Tech Lead)``
 
-In March of 2021, after a company merge, I started working at Bume as a Tech Lead.
+In March of 2021, I started working at Bume as a Tech Lead.
 
 At this new position, I helped them and learned about `Kubernetes, Rancher, AWS EKS, Puppeteer, Microservices, Socket, Software Scaling, Redis, Queues, Messaging System, Chatbot, Mass Messages, Kibana, Logging, Open Source, Tech Articles, React Componentization, React Global State Management, React Atomic State Update, Pair Programming`.
 
