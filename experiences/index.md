@@ -12,7 +12,7 @@ In July of 2021, I started working at Letalk as a Tech Lead.
 
 At this new position, I helped them and learned about `Landing Page, Webflow, Notification System`.
 
-On top of that, it is important to know that I've `helped taking software design/architecture decisions on a notifications system integrated with external pltaforms, scaling and debugging Google Chrome crawling related services backed by puppeteer`.
+On top of that, it is important to know that I've `helped taking software design/architecture decisions on a notifications system integrated with external pltaforms, scaling and debugging Google Chrome crawling services backed by puppeteer`.
 
 <br />
 
