@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./favicon.ico" width="150" alt="icon example" />
+	<img src="https://static.guilherr.me/image/logo/logo-2-white.png" width="150" alt="icon example" />
 </p>	
 
 <h3 align="center">
