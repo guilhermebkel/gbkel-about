@@ -6,9 +6,19 @@ nav_order: 5
 
 <img src="../assets/education/ufmg.png" align="left" width="120">
 
-**[ 2019 - Current ]** Bachelor's degree in Electrical Engineering with emphasis on Computer Science
+**[ 2021 - Current ]** Information System
 
 Currently I'm enrolled on this course at **Universidade Federal de Minas Gerais**.
+
+<br>
+
+<img src="../assets/education/ufmg.png" align="left" width="120">
+
+**[ 2019 - 2021 ]** Bachelor's degree in Electrical Engineering with emphasis on Computer Science
+
+Learned a lot about software, hardware and math.
+
+So, I've gained solid knowledge about ```Object-oriented Programming, Algorithms and Data Structures, Digital Systems, Electrical Circuits, Statistics, Calculus, Numerical Analysis```.
 
 <br>
 

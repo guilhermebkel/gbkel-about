@@ -10,9 +10,9 @@ nav_order: 3
 
 In July of 2021, I started working at Letalk as a Tech Lead.
 
-At this new position, I helped them and learned about `Landing Page, Webflow, Notification System`.
+At this new position, I helped them and learned about `Webflow, Notification System, Application Perfomance, Google Chrome, Software Architecture, Kubernetes Taint/Toleration, Rancher Monitoring, Webhook, Queue Management, Application Scaling, Data Intensive Application`.
 
-On top of that, it is important to know that I've `helped taking software design/architecture decisions on a notifications system integrated with external pltaforms, scaling and debugging Google Chrome crawling services backed by puppeteer`.
+On top of that, it is important to know that I've `helped taking software design/architecture decisions on a notifications system integrated with external platforms, scaling and debugging Google Chrome crawling services backed by puppeteer, dealing with data intensive applications, dealing with resources performance - such as databases, scaling applications horizontally and vertically, optimizing code for performance, solving performance problems, helped reviewing code challenges during hiring processes, improved and optimized my process of navigating through different code bases while understading them fast, helped running a cluster of applications in a different group of nodes in the same kubernetes cluster, helped optimizing an api to handle a high number of webhook callings, helped creating a queue management system to deal with chat messaging`.
 
 <br />
 
@@ -22,7 +22,7 @@ On top of that, it is important to know that I've `helped taking software design
 
 In March of 2021, I started working at Bume as a Tech Lead.
 
-At this new position, I helped them and learned about `Kubernetes, Rancher, AWS EKS, Puppeteer, Microservices, Socket, Software Scaling, Redis, Queues, Messaging System, Chatbot, Mass Messages, Kibana, Logging, Open Source, Tech Articles, React Componentization, React Global State Management, React Atomic State Update, Pair Programming`.
+At this new position, I helped them and learned about `Kubernetes, Rancher, AWS EKS, Puppeteer, Microservices, Socket, Software Scaling, Redis, Queues, Messaging System, Chatbot, Message Blasts, Kibana, Logging, Open Source, Tech Articles, React Componentization, React Global State Management, React Atomic State Update, Pair Programming`.
 
 On top of that, it is important to know that I've `helped creating an attendance platform integrated with social medias, reviewing code, architecturing softwares, contributing with feedback about other developers, creating a microservice distributed system of high disponibility/scalability/availability integrated with whatsapp platform, architecturing an end to end chat bot application, creating a system log for microservice, creating a cluster manager service for slave microservices with socket, sharing knowledge by writing article, creating a global state management on react with atomic update/re-render for a chat messaging application, managing developer service credentials on aws, helping other developers to improve themselves`.
 

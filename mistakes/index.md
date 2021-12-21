@@ -53,3 +53,18 @@ nav_order: 6
 
 - **Error:** I did not give the opportunity for the new developer to solve the problems that were assigned to him (I was like a parent trying to do all the stuffs for its children).
 - **Solution:** Now I understand that letting the developer solve the problem that is assigned to him creates an improved sense of responsibility and at the same time helps improving its skills. So in case I feel that a developer is getting a lot of time stuck at a problem, I do not solve it for him, instead I give some tips and some ideas to help him doing that.
+
+---
+
+- **Error:** I used to make code reviews and consider a different way to solve a problem wrong since it was different of mine.
+- **Solution:** I was able to understand there are a lot of different ways to solve a problem and in case it does not match some particularities such as good maintainability and readability, it is good to discuss this solution in other to understand why it was made that way and if we need to improve it or not.
+
+---
+
+- **Error:** In the moments I helped in hiring processes by reviewing the code challenges, I focused only on stuffs that sometimes are not the best ones to describe someone's competence (such as frameworks being used, etc.).
+- **Solution:** Now when reviewing code challenges for hiring processes, I try to understand solution logic, usage of basic concepts of language and all other stuffs that indicates the developer's base knowledge and competence to solve a problem.
+
+---
+
+- **Error:** I used to go crazy when being at a chaotic environment (like constantly caming across with a lot of problems at the same time everyday).
+- **Solution:** Since I understood how bad it is to be super affected by problems and to complain about them instead of solving them, now I just take on the problem and try to solve it, without losing time complaining about it.
