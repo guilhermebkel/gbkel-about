@@ -50,6 +50,7 @@ gRPC
 Git
 Git Karma
 Git Flow
+Semantic Versioning
 ```
 
 ***Database***
@@ -153,6 +154,15 @@ WebSocket
 ```
 Kubernetes
 Rancher
+Kind
+Minikube
+```
+
+***Game Architecture***
+```
+Babylon.js
+Client Authority
+Server Authority
 ```
 
 ***Application Containerization***
@@ -201,6 +211,11 @@ Grafana
 Sentry
 Google Analytics
 Kibana
+```
+
+**Identity and Access Management**
+```
+Keycloak
 ```
 
 ***Web Scrapping***

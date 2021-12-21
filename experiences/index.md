@@ -6,6 +6,18 @@ nav_order: 3
 
 <img src="../assets/experiences/letalk.jpg" align="left" width="120">
 
+**[ 2021/08 - Current ]** [Letalk](https://letalk.com.br) ``(Mentor and Project Reviewer)``
+
+In July of 2021, I started working at Letalk as a Tech Lead.
+
+At this new position, I helped them and learned about `Webflow, Notification System, Application Perfomance, Google Chrome, Software Architecture, Kubernetes Taint/Toleration, Rancher Monitoring, Webhook, Queue Management, Application Scaling, Data Intensive Application, Code Review`.
+
+On top of that, it is important to know that I've `helped taking software design/architecture decisions on a notifications system integrated with external platforms, scaling and debugging Google Chrome crawling services backed by puppeteer, dealing with data intensive applications, dealing with resources performance - such as databases, scaling applications horizontally and vertically, optimizing code for performance, solving performance problems, helped reviewing code challenges during hiring processes, improved and optimized my process of navigating through different code bases while understading them fast, helped running a cluster of applications in a different group of nodes in the same kubernetes cluster, helped optimizing an api to handle a high number of webhook callings, helped creating a queue management system to deal with chat messaging`.
+
+<br />
+
+<img src="../assets/experiences/letalk.jpg" align="left" width="120">
+
 **[ 2021/07 - Current ]** [Letalk](https://letalk.com.br) ``(Tech Lead)``
 
 In July of 2021, I started working at Letalk as a Tech Lead.
