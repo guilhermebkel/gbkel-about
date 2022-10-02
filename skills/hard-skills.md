@@ -122,6 +122,7 @@ AWS EKS
 AWS IAM
 AWS ECS
 AWS Cost Explorer
+AWS X-Ray
 ```
 
 ***Google Cloud***
@@ -291,4 +292,11 @@ Tensorflow.js
 Adobe Photoshop
 Adobe XD
 Figma
+```
+
+***SRE and Observability***
+```
+Open Telemetry
+X-Ray
+Datadog
 ```
