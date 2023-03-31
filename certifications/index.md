@@ -4,6 +4,9 @@ nav_order: 4
 
 # Certifications
 
+### The Developers Conference
+- [Trilha Liderança Técnica 2023](./tdc/TDC%20-%20Trilha%20Lideran%C3%A7a%20T%C3%A9cnica%202023.pdf)
+
 ### Erick Wendel
 - [Aplicações Serverless na AWS](./ew.it/Erick%20Wendel%20-%20Aplicações%20Serverless%20na%20AWS.pdf)
 
