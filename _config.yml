@@ -1,5 +1,5 @@
 description: "All info about me, my projects, skills, education, experiences and certifications."
-google_analytics: UA-140879800-1
+google_analytics: "386331700"
 plugins:
   - jekyll-relative-links
   - jekyll-github-metadata
@@ -15,7 +15,7 @@ search_enabled: false
 aux_links:
   "gbkel-about on GitHub":
     - "//github.com/guilhermebkel/gbkel-about"
-ga_tracking: UA-140879800-1
+ga_tracking: "386331700"
 exclude:
   - README.md
 footer_content: "A lot of info about <a href=\"https://github.com/guilhermebkel\">Guilherme Mota Bromonschenkel Lima.</a>"
