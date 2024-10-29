@@ -6,8 +6,6 @@ nav_order: 4
 
 ### Google Developer Groups
 - [Devfest 2024](./gdg/GDG%20-%20Devfest%202024.pdf)
-- [Trilha Microservices II](./tdc/TDC%20-%20Trilha%20Microservices%20II.pdf)
-- [Trilha DevOps](./tdc/TDC%20-%20Trilha%20DevOps.pdf)
 
 ### The Developers Conference
 - [Trilha Liderança Técnica](./tdc/TDC%20-%20Trilha%20Lideran%C3%A7a%20T%C3%A9cnica.pdf)
