@@ -4,6 +4,9 @@ nav_order: 4
 
 # Certifications
 
+### Tech Leads Club
+- [Desenvolvimento Assistido por IA Avançado](./tech-leads-club/TechLeadsClub%20-%20Desenvolvimento%20Assistido%20por%20IA%20Avan%C3%A7ado.pdf)
+
 ### Google Developer Groups
 - [Devfest 2024](./gdg/GDG%20-%20Devfest%202024.pdf)
 
