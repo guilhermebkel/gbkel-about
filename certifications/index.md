@@ -4,6 +4,9 @@ nav_order: 4
 
 # Certifications
 
+### Full Cycle
+- [Full Cycle - Imersão AIOps na prática](./full-cycle/Full%20Cycle%20-%20Imers%C3%A3o%20AIOps%20na%20pr%C3%A1tica.png)
+
 ### Tech Leads Club
 - [Desenvolvimento Assistido por IA Avançado](./tech-leads-club/TechLeadsClub%20-%20Desenvolvimento%20Assistido%20por%20IA%20Avan%C3%A7ado.pdf)
 
