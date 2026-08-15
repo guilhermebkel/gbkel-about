@@ -6,7 +6,7 @@ nav_order: 5
 
 <img src="../assets/education/ufmg.png" align="left" width="120">
 
-**[ 2021 - Current ]** Information System
+**[ 2021 - 2026 ]** Information System
 
 Currently I'm enrolled on this course at **Universidade Federal de Minas Gerais**.
 
