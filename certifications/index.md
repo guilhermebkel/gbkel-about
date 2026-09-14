@@ -4,6 +4,10 @@ nav_order: 4
 
 # Certifications
 
+### CBSoft
+
+- [CBSoft 2026 - XVII Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2026)](./cbsoft/CBSoft%202026%20-%20XVII%20Congresso%20Brasileiro%20de%20Software:%20Teoria%20e%20Prática%20(CBSoft%202026).pdf)
+
 ### Full Cycle
 - [Full Cycle - Imersão AIOps na prática](./full-cycle/Full%20Cycle%20-%20Imers%C3%A3o%20AIOps%20na%20pr%C3%A1tica.png)
 
