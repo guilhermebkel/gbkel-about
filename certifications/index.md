@@ -4,6 +4,10 @@ nav_order: 4
 
 # Certifications
 
+### Couto Performance
+
+- [Couto Performance - Claude para Lideres](./couto-performance/Couto%20Performance%20-%20Claude%20para%20Lideres.pdf)
+
 ### CBSoft
 
 - [CBSoft 2026 - XVII Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2026)](./cbsoft/CBSoft%202026%20-%20XVII%20Congresso%20Brasileiro%20de%20Software:%20Teoria%20e%20Prática%20(CBSoft%202026).pdf)
