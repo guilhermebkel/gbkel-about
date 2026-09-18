@@ -11,6 +11,7 @@ nav_order: 4
 ### CBSoft
 
 - [CBSoft 2026 - XVII Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2026)](./cbsoft/CBSoft%202026%20-%20XVII%20Congresso%20Brasileiro%20de%20Software:%20Teoria%20e%20Prática%20(CBSoft%202026).pdf)
+- [CBSoft 2026 - Certificado de Apresentação: Test-Driven Prompting: An Empirical Evaluation of Methods Reconstruction based on Unit Tests](./cbsoft/CBSoft%202026%20-%20Certificado%20de%20Apresentação%20-%20Test-Driven%20Prompting%20-%20An%20Empirical%20Evaluation%20of%20Methods%20Reconstruction%20based%20on%20Unit%20Tests.pdf)
 
 ### Full Cycle
 - [Full Cycle - Imersão AIOps na prática](./full-cycle/Full%20Cycle%20-%20Imers%C3%A3o%20AIOps%20na%20pr%C3%A1tica.png)
