@@ -68,3 +68,8 @@ nav_order: 8
 
 - **Error:** I used to go crazy when being at a chaotic environment (like constantly caming across with a lot of problems at the same time everyday).
 - **Solution:** Since I understood how bad it is to be super affected by problems and to complain about them instead of solving them, now I just take on the problem and try to solve it, without losing time complaining about it.
+
+---
+
+- **Error:** When I stopped being only a technical lead and started looking at the career development of the devs, I noticed I could not give clear feedback because I was afraid of having difficult conversations.
+- **Solution:** I worked on it together with the people department and exposed myself more and more to difficult conversations, until I stopped avoiding them. One case was a layoff where I had to notify the team, probably the hardest conversation I have had. Even though it was a very bad situation, it ended up helping me get better at this.
