@@ -300,3 +300,50 @@ Open Telemetry
 X-Ray
 Datadog
 ```
+
+***AI Engineering***
+```
+Claude Code
+Cursor
+Gemini
+Lovable
+LLMs
+Prompt Engineering
+Context Engineering
+RAG
+Agent Harness
+AI Gateway
+Machine Learning
+Churn Prediction
+```
+
+***Data***
+```
+Data Warehouse
+AWS Glue
+BigQuery
+Supabase
+PostHog
+Data Analysis
+```
+
+***Automation***
+```
+n8n
+```
+
+***FinOps and Cloud***
+```
+FinOps
+Huawei Cloud
+Hybrid Cloud
+Cloud Migration (AWS to Huawei)
+```
+
+***Messaging and Telephony***
+```
+WhatsApp Business API (WABA)
+Gupshup
+Zenvia
+PABX
+```
