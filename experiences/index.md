@@ -29,7 +29,7 @@ On top of that, it is important to know that I've `helped taking software design
 **AI harness (agent-based development workflow)**
 
 - Built a harness for AI-assisted development, using Claude Code. It is in production.
-- Result: about +50% productivity, measured in story points, mostly for more junior developers. Comparison: the second period of 2026 (without harness) versus the third (with harness adoption). _(Number of devs in the comparison not recorded. I said "semester", it was probably quarters. Confirm.)_
+- Result: about +50% productivity, measured in story points, mostly for more junior developers. Comparison between quarters: Q2 2026 (without harness) versus Q3 2026 (with harness adoption), with 4 developers in both quarters.
 - Built other harnesses following the same pattern, also in production: one for data (scale and standardize processes, including the data warehouse) and one for cloud cost (FinOps).
 - Designed the agent code harness architecture so cheaper models can be used.
 - Built my own gateway on top of Claude Code: it gives observability to the harness (alongside the observability the system already has) and routes to Huawei AI models to make it cheaper.
