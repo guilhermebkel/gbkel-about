@@ -63,8 +63,6 @@ On top of that, it is important to know that I've `helped taking software design
 
 `n8n, Data Warehouse, AWS Glue, BigQuery, Supabase, LLMs, PostHog, Machine Learning, Data Analysis, Lovable, Claude Code, Cursor, Gemini, RAG, Prompt Engineering, cross-sector processes`
 
-_Source: the Jira cards of the period. In Jira everything is operational work, and I was the author of all of them._
-
 <br />
 
 <img src="../assets/experiences/bume.png" align="left" width="120">
