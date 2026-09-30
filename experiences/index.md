@@ -14,6 +14,55 @@ At this new position, I helped them and learned about `Webflow, Notification Sys
 
 On top of that, it is important to know that I've `helped taking software design/architecture decisions on a notifications system integrated with external platforms, scaling and debugging Google Chrome crawling services backed by puppeteer, dealing with data intensive applications, dealing with resources performance - such as databases, scaling applications horizontally and vertically, optimizing code for performance, solving performance problems, helped reviewing code challenges during hiring processes, improved and optimized my process of navigating through different code bases while understading them fast, helped running a cluster of applications in a different group of nodes in the same kubernetes cluster, helped optimizing an api to handle a high number of webhook callings, helped creating a queue management system to deal with chat messaging, helped solving performance issues on node.js applications inside kubernetes, helped debugging node.js performance inside kubernetes, developing a chat bot application, improving database performance, helped debugging sql database queries, improving observability with telemetry resources like aws-xray and datadog, developer training, component architecture on front-end`.
 
+#### Highlights (2026)
+
+> Raw notes, in my own words. Money values are in USD and per month; volume numbers are per day.
+
+**Team and leadership**
+
+- I joined Letalk already as Tech Lead. The most people I led at once was 5 developers; today I lead 2.
+- Mentored one developer through a full path: from being my right hand, to senior, to taking a leadership role. It is the same person, and I helped them step into leadership.
+- Went deeper into leadership and career development of the people around me.
+- Started taking part in the strategic committee at about the beginning of the last quarter (Q3 2026 counting from now).
+- Completed the process for Letalk to become an official Meta partner and an Anthropic partner (both finished).
+
+**AI harness (agent-based development workflow)**
+
+- Built a harness for AI-assisted development, using Claude Code. It is in production.
+- Result: about +50% productivity, measured in story points, mostly for more junior developers. Comparison between quarters: Q2 2026 (without harness) versus Q3 2026 (with harness adoption), with 4 developers in both quarters.
+- Built other harnesses following the same pattern, also in production: one for data (scale and standardize processes, including the data warehouse) and one for cloud cost (FinOps).
+- Designed the agent code harness architecture so cheaper models can be used.
+- Built my own gateway on top of Claude Code: it gives observability to the harness (alongside the observability the system already has) and routes to Huawei AI models to make it cheaper.
+- Built a branch deploy system.
+
+**FinOps and infrastructure**
+
+- "FinOps" is the name of the cost reduction work.
+- Full cloud migration from AWS to Huawei Cloud (hybrid). Saved about US$ 1,000 per month.
+- Updated a legacy database. Saved about US$ 300 per month.
+- All FinOps initiatives together abated more than US$ 2,000 per month.
+- Observability work (OpenTelemetry, Datadog, and others): critical instabilities are now resolved in about 1 hour.
+
+**Product, AI and integrations**
+
+- Architected the productized AI agent ("Agente Produtizado", the Léo SDR), which is launched.
+- Built a RAG to give customers insights from their own messages. About 20 customers have used it.
+- Built a churn prediction model. It is being used now so the team contacts customers proactively.
+- Migrated 20+ channels to the WhatsApp Business API (WABA). Also worked on BSUID and Gupshup topics.
+- Scale I work with: about 1M bot activations per day and about 500K message sends per day.
+- Built the PABX calling feature integrated with Zenvia, and the calls are launched. About 100 users use it. Done in one week, Monday to Monday:
+  - ran a deep research with AI about the subject;
+  - built a live-call MVP and had a colleague test it;
+  - built a prototype in Claude and validated it with the solutions team;
+  - handled the whole contact with Zenvia support and the contracting (waiting for the CEO to sign the contract);
+  - the sales team defined the price;
+  - built an interactive launch modal using Claude Design.
+  - It connected several departments and made everything work in that week.
+
+**Tools and topics I had contact with (all applied in practice)**
+
+`n8n, Data Warehouse, AWS Glue, BigQuery, Supabase, LLMs, PostHog, Machine Learning, Data Analysis, Lovable, Claude Code, Cursor, Gemini, RAG, Prompt Engineering, cross-sector processes`
+
 <br />
 
 <img src="../assets/experiences/bume.png" align="left" width="120">

@@ -8,7 +8,9 @@ nav_order: 5
 
 **[ 2021 - 2026 ]** Information System
 
-Currently I'm enrolled on this course at **Universidade Federal de Minas Gerais**.
+I completed this course at **Universidade Federal de Minas Gerais**.
+
+I switched from Electrical Engineering to this course because, in the beginning of engineering, I realized I really liked programming and wanted to focus on it.
 
 <br>
 
